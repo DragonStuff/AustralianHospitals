@@ -1,4 +1,4 @@
-# AustralianHospitals
+# AustralianHospitals :hospital: 🇦🇺
 Terribly formatted Australian Hospital data, by state. This data has not been perfectly cleaned yet, instructions below. Generation scripts included.
 
 Final data located in: https://github.com/DragonStuff/AustralianHospitals/tree/master/cleaned/f
