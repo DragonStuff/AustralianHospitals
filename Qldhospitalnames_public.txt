@@ -1,0 +1,187 @@
+    Alpha Hospital
+    Aramac Primary Healthcare Centre
+    Atherton Hospital
+    Augathella Hospital
+    Aurukun Primary Health Care Centre
+    Ayr Hospital
+    Babinda Hospital
+    Badu Island Health Centre
+    Baillie Henderson Hospital
+    Bamaga Hospital
+    Baralaba Hospital
+    Barcaldine Hospital
+    Beaudesert Hospital
+    Biggenden Hospital
+    Biloela Hospital
+    Blackall Hospital
+    Blackwater Hospital
+    Boigu Island Health Centre
+    Bollon Outpatients Clinic
+    Boonah Hospital
+    Boulia Primary Health Centre
+    Bowen Hospital
+    Bundaberg Base Hospital
+    Burketown Health Clinic
+    Caboolture Hospital
+    Cairns Hospital
+    Caloundra Hospital
+    Camooweal Health Clinic
+    Capella Outpatients Clinic
+    Capricorn Coast Hospital
+    Charleville Hospital
+    Charters Towers Hospital
+    Charters Towers Rehabilitation Unit
+    Cherbourg Hospital
+    Childers Hospital
+    Chillagoe Hospital
+    Chinchilla Hospital
+    Clermont Hospital
+    Cloncurry Hospital
+    Coconut Island Health Centre
+    Coen Primary Health Care Centre
+    Collinsville Hospital
+    Cooktown Hospital
+    Cracow Outpatients Clinic
+    Croydon Hospital
+    Cunnamulla Hospital
+    Dajarra Health Centre
+    Dalby Hospital
+    Darnley Island Primary Health Care Centre
+    Dauan Island Health Centre
+    Dimbulah Outpatients Clinic
+    Dirranbandi Hospital
+    Doomadgee Hospital
+    Duaringa Outpatients Clinic
+    Dysart Hospital
+    Eidsvold Hospital
+    Ellen Barron Family Centre
+    Emerald Hospital
+    Esk Hospital
+    Forsayth Hospital
+    Gatton Hospital
+    Gayndah Hospital
+    Gemfields Outpatients Clinic
+    Georgetown Hospital
+    Gin Gin Hospital
+    Gladstone Hospital
+    Glenmorgan Outpatients Clinic
+    Gold Coast University Hospital
+    Goondiwindi Hospital
+    Gordonvale Hospital
+    Gurriny Yealamucka Primary Health Care Service
+    Gympie Hospital
+    Herberton Hospital
+    Hervey Bay Hospital
+    Home Hill Hospital
+    Hope Vale Primary Health Care Centre
+    Hughenden Hospital
+    Ingham Hospital
+    Inglewood Hospital
+    Injune Hospital
+    Innisfail Hospital
+    Ipswich Hospital
+    Isisford Primary Health Centre
+    Island Medical Service
+    Jandowae Hospital
+    Joyce Palmer Health Service
+    Julia Creek Hospital
+    Jundah Primary Health Centre
+    Karumba Health Centre
+    Kilcoy Hospital
+    Kingaroy Hospital
+    Kirwan Rehabilitation Unit
+    Kowanyama Primary Health Care Centre
+    Kubin Primary Health Care Centre
+    Lady Cilento Childrens Hospital
+    Laidley Hospital
+    Laura Primary Health Care Centre
+    Lockhart River Primary Health Care Centre
+    Logan Hospital
+    Longreach Hospital
+    Mabuiag Island Health Centre
+    Mackay Base Hospital
+    Magnetic Island Health Service Centre
+    Malakoola Primary Health Care Centre
+    Malanda Outpatients Clinic
+    Maleny Hospital
+    Mapoon Primary Health Care Centre
+    Mareeba Hospital
+    Marie Rose Centre
+    Maryborough Hospital
+    Mater Adult Hospital
+    Mater Childrens Hospital
+    Mater Mothers Hospital
+    Meandarra Outpatients Clinic
+    Miles Hospital
+    Millaa Millaa Outpatients Clinic
+    Millmerran Hospital
+    Mitchell Hospital
+    Monto Hospital
+    Moonie Outpatients Clinic
+    Moranbah Hospital
+    Mornington Island Hospital
+    Morven Outpatients Clinic
+    Mossman Hospital
+    Mount Garnet Outpatients Clinic
+    Mount Isa Base Hospital
+    Mount Morgan Hospital
+    Mount Perry Health Centre
+    Moura Hospital
+    Mundubbera Hospital
+    Mungindi Hospital
+    Murgon Hospital
+    Murray Island Primary Health Centre
+    Muttaburra Primary Health Centre
+    Nambour General Hospital
+    Nanango Hospital
+    Normanton Hospital
+    Oakey Hospital
+    Pormpuraaw Primary Health Care Centre
+    Princess Alexandra Hospital
+    Proserpine Hospital
+    Queen Elizabeth II Jubilee Hospital
+    Quilpie Hospital
+    Ravenshoe Outpatients Clinic
+    Redcliffe Hospital
+    Redland Hospital
+    Richmond Hospital
+    Robina Hospital
+    Rockhampton Hospital
+    Roma Hospital
+    Royal Brisbane & Womens Hospital
+    Royal Childrens Hospital
+    Saibai Island Primary Health Centre
+    Sarina Hospital
+    Springsure Hospital
+    St George Hospital Qld
+    St Pauls Primary Health Care Centre
+    Stanthorpe Hospital
+    Stephen Island Primary Health Care Centre
+    Surat Hospital
+    Tambo Primary Health Centre
+    Tara Hospital
+    Taroom Hospital
+    Texas Hospital
+    Thargomindah Hospital
+    The Park Centre For Mental Health
+    The Prince Charles Hospital
+    The Townsville Hospital
+    Theodore Hospital
+    Thursday Island Hospital
+    Thursday Island Primary Health Care Centre
+    Toowoomba Hospital
+    Tully Hospital
+    Wallumbilla Outpatients Clinic
+    Wandoan Hospital
+    Warraber Island Primary Health Centre
+    Warwick Hospital
+    Weipa Hospital
+    Windorah Clinic
+    Winton Hospital
+    Wondai Hospital
+    Woorabinda Hospital
+    Wujal Wujal Primary Health Care Centre
+    Wynnum Health Service
+    Yam Island Primary Health Centre
+    Yaraka Clinic
+    Yorke Island Primary Health Centre

@@ -1,0 +1,21 @@
+    Abbotsford Private Hospital
+    Attadale Rehabilitation Hospital
+    Bethesda Hospital
+    Colin Street Day Hospital
+    Glengarry Private Hospital
+    Hollywood Private Hospital
+    Joondalup Health Campus (Private)
+    Mount Hospital
+    Oxford Day Surgery and Dermatology
+    Perth Clinic
+    Sentiens Clinic
+    South Perth Hospital
+    St John of God Bunbury Hospital
+    St John of God Geraldton Hospital
+    St John of God Mt Lawley Hospital
+    St John of God Murdoch Hospital
+    St John of God Subiaco Hospital
+    Subiaco Private Hospital
+    Waikiki Private Hospital
+    Walcott Street Surgical Centre
+    Westminster Day Surgery

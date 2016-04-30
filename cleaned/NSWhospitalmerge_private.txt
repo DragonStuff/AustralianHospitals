@@ -1,0 +1,97 @@
+    Aesthetic Day Surgery-Sydney, private hospital
+    Albury Wodonga Private Hospital-Murray, private hospital
+    Allowah Presbyterian Childrens Hospital-Sydney, private hospital
+    Armidale Private Hospital-New England, private hospital
+    Ballina Day Surgery-Richmond-Tweed, private hospital
+    Baringa Private Hospital-NSW Mid-North Coast, private hospital
+    Bathurst Private Hospital-Central NSW, private hospital
+    Bega Valley Private Hospital-South Eastern NSW, private hospital
+    Berkeley Vale Private Hospital-Sydney, private hospital
+    Brisbane Waters Private Hospital-Sydney, private hospital
+    Calvary Health Care Riverina-Calvary, Murrumbidgee, private hospital
+    Campbelltown Private Hospital-Sydney, private hospital
+    Castle Hill Day Surgery-Castle Hill Hospital, Sydney, private hospital
+    Castlecrag Private Hospital-Sydney, private hospital
+    Central Coast Day Hospital-Sydney, private hospital
+    Centre for Digestive Diseases-CDD, Sydney, private hospital
+    Coffs Harbour Day Surgery-NSW Mid-North Coast, private hospital
+    Coolenberg Day Surgery-NSW Mid-North Coast, private hospital
+    Crows Nest Day Surgery-CNDS, Sydney, private hospital
+    Dalcross Adventist Hospital-Sydney, private hospital
+    Dee Why Endoscopy Unit-Sydney, private hospital
+    Diagnostic Endoscopy Centre-DEC, Sydney, private hospital
+    Dudley-Orange Private Hospital-Dudley Private Hospital, Central NSW, private hospital
+    Eastern Heart Clinic-Sydney, private hospital
+    Epping Surgery Centre-Sydney, private hospital
+    Figtree Private Hospital-Wollongong, Illawarra, private hospital
+    Forster Private Hospital-Cape Hawke, Hunter, private hospital
+    Hastings Day Surgery-NSW Mid-North Coast, private hospital
+    Hunter Valley Private Hospital-Newcastle, Hunter, private hospital
+    Hunters Hill Private Hospital-Sydney, private hospital
+    Hurstville Private-Sydney, private hospital
+    Kareena Private Hospital-Sydney, private hospital
+    Kingsway Day Surgery-Sydney, private hospital
+    Lady Davidson Private Hospital-Sydney, private hospital
+    Lake Macquarie Private Hospital-Newcastle, Hunter, private hospital
+    Lawrence Hargrave Private Hospital-Wollongong, Illawarra, private hospital
+    Liverpool Day Surgery-Sydney, private hospital
+    Macquarie University Hospital-MUH, Sydney, private hospital
+    Mater Hospital Sydney-Mater North Sydney, Sydney, private hospital
+    MetroRehab Hospital-Metropolitan Rehabilitation Hospital, Sydney, private hospital
+    Metwest Surgical-Sydney, private hospital
+    Miranda Eye Surgical Centre-Sydney, private hospital
+    Mogo Day Surgery-South Eastern NSW, private hospital
+    Mosman Private Hospital-Sydney, private hospital
+    Mount Wilga Private Hospital-Mt Wilga Private Hospital, Sydney, private hospital
+    Nepean Private Hospital-Sydney, private hospital
+    Newcastle Private Hospital-Hunter, private hospital
+    North Shore Private Hospital-Sydney, private hospital
+    Northside Clinic-Sydney, private hospital
+    Northside Cremorne Clinic-Sydney, private hospital
+    Northside Macarthur Clinic-Sydney, private hospital
+    Northside West Clinic-Sydney, private hospital
+    Norwest Private Hospital-Sydney, private hospital
+    Nowra Private Hospital-Illawarra, private hospital
+    Ophthalmic Surgery Centre (North Shore)-North Shore
+    Orange Day Surgery Centre-Central NSW, private hospital
+    Pennant Hills Day Endoscopy Centre-Sydney, private hospital
+    Perfect Vision Day Surgery-Sydney, private hospital
+    Port Macquarie Private Hospital-NSW Mid-North Coast, private hospital
+    Prince of Wales Private Hospital-Sydney, private hospital
+    Radiation Oncology Institute - Gosford-Sydney, private hospital
+    Radiation Oncology Institute - The Sydney Adventist Hospital Wahroonga-Sydney, private hospital
+    San Day Surgery Hornsby-Sydney, private hospital
+    South Pacific Private-SPP, Sydney, private hospital
+    Southern Highlands Private Hospital-includes Southern Highlands Cancer Centre, Illawarra, private hospital
+    St George Private Hospital-Sydney, private hospital
+    St John of God Burwood Hospital-Sydney, private hospital
+    St John of God Richmond Hospital-Sydney, private hospital
+    St Lukes Hospital-St Luke's Care, Sydney, private hospital
+    St Vincents Private Hospital [Lismore]-SVH, Richmond-Tweed, private hospital
+    St Vincents Private Sydney-St Vincent's Private Hospital, Sydney, private hospital
+    Strathfield Private Hospital-Sydney, private hospital
+    Sutherland Heart Clinic-Sydney, private hospital
+    Sydney Adventist Hospital-The San, Sydney, private hospital
+    Sydney Day Surgery - Prince Alfred-Sydney, private hospital
+    Sydney E.N.T. & Facial Day Surgery Centre-Sydney, private hospital
+    Sydney South West Private Hospital-Sydney, private hospital
+    Tamara Private Hospital-New England, private hospital
+    The Hills Clinic Kellyville-Sydney, private hospital
+    The Hills Private Hospital-Sydney, private hospital
+    The Skin & Cancer Foundation Australia-Westmead Day Clinic, Sydney, private hospital
+    The Sydney Clinic-Sydney, private hospital
+    The Sydney Private Hospital Incorporating the NSW Eye Centre-TSPH, Sydney, private hospital
+    Tweed Day Surgery-Richmond-Tweed, private hospital
+    Ulladulla Endoscopy and Medical Centre-Illawarra, private hospital
+    Vision Day Surgery Chatswood-Vision Eye Institute, Sydney, private hospital
+    Vision Day Surgery Hurstville-Vision Eye Institute, Sydney, private hospital
+    Wagga Endoscopy Centre-Murrumbidgee, private hospital
+    Waratah Private Hospital-Medica Centre, Sydney, private hospital
+    Warners Bay Private Hospital-Newcastle, Hunter, private hospital
+    Wesley Hospital Ashfield-Sydney, private hospital
+    Wesley Hospital Kogarah-Wandene Private Hospital, Sydney, private hospital
+    Western Sydney Oncology-Sydney, private hospital
+    Westmead Private Hospital-Sydney, private hospital
+    Westmead Rehabilitation Hospital-Westmead Rehab Hospital, Sydney, private hospital
+    Wollongong Day Surgery-Illawarra, private hospital
+    Wolper Jewish Hospital-Sydney, private hospital

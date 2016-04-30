@@ -1,0 +1,322 @@
+    Aesthetic Day Surgery-Sydney, private hospital
+    Albury Wodonga Private Hospital-Murray, private hospital
+    Allowah Presbyterian Childrens Hospital-Sydney, private hospital
+    Armidale Private Hospital-New England, private hospital
+    Ballina Day Surgery-Richmond-Tweed, private hospital
+    Baringa Private Hospital-NSW Mid-North Coast, private hospital
+    Bathurst Private Hospital-Central NSW, private hospital
+    Bega Valley Private Hospital-South Eastern NSW, private hospital
+    Berkeley Vale Private Hospital-Sydney, private hospital
+    Brisbane Waters Private Hospital-Sydney, private hospital
+    Calvary Health Care Riverina-Calvary, Murrumbidgee, private hospital
+    Campbelltown Private Hospital-Sydney, private hospital
+    Castle Hill Day Surgery-Castle Hill Hospital, Sydney, private hospital
+    Castlecrag Private Hospital-Sydney, private hospital
+    Central Coast Day Hospital-Sydney, private hospital
+    Centre for Digestive Diseases-CDD, Sydney, private hospital
+    Coffs Harbour Day Surgery-NSW Mid-North Coast, private hospital
+    Coolenberg Day Surgery-NSW Mid-North Coast, private hospital
+    Crows Nest Day Surgery-CNDS, Sydney, private hospital
+    Dalcross Adventist Hospital-Sydney, private hospital
+    Dee Why Endoscopy Unit-Sydney, private hospital
+    Diagnostic Endoscopy Centre-DEC, Sydney, private hospital
+    Dudley-Orange Private Hospital-Dudley Private Hospital, Central NSW, private hospital
+    Eastern Heart Clinic-Sydney, private hospital
+    Epping Surgery Centre-Sydney, private hospital
+    Figtree Private Hospital-Wollongong, Illawarra, private hospital
+    Forster Private Hospital-Cape Hawke, Hunter, private hospital
+    Hastings Day Surgery-NSW Mid-North Coast, private hospital
+    Hunter Valley Private Hospital-Newcastle, Hunter, private hospital
+    Hunters Hill Private Hospital-Sydney, private hospital
+    Hurstville Private-Sydney, private hospital
+    Kareena Private Hospital-Sydney, private hospital
+    Kingsway Day Surgery-Sydney, private hospital
+    Lady Davidson Private Hospital-Sydney, private hospital
+    Lake Macquarie Private Hospital-Newcastle, Hunter, private hospital
+    Lawrence Hargrave Private Hospital-Wollongong, Illawarra, private hospital
+    Liverpool Day Surgery-Sydney, private hospital
+    Macquarie University Hospital-MUH, Sydney, private hospital
+    Mater Hospital Sydney-Mater North Sydney, Sydney, private hospital
+    MetroRehab Hospital-Metropolitan Rehabilitation Hospital, Sydney, private hospital
+    Metwest Surgical-Sydney, private hospital
+    Miranda Eye Surgical Centre-Sydney, private hospital
+    Mogo Day Surgery-South Eastern NSW, private hospital
+    Mosman Private Hospital-Sydney, private hospital
+    Mount Wilga Private Hospital-Mt Wilga Private Hospital, Sydney, private hospital
+    Nepean Private Hospital-Sydney, private hospital
+    Newcastle Private Hospital-Hunter, private hospital
+    North Shore Private Hospital-Sydney, private hospital
+    Northside Clinic-Sydney, private hospital
+    Northside Cremorne Clinic-Sydney, private hospital
+    Northside Macarthur Clinic-Sydney, private hospital
+    Northside West Clinic-Sydney, private hospital
+    Norwest Private Hospital-Sydney, private hospital
+    Nowra Private Hospital-Illawarra, private hospital
+    Ophthalmic Surgery Centre (North Shore)-North Shore
+    Orange Day Surgery Centre-Central NSW, private hospital
+    Pennant Hills Day Endoscopy Centre-Sydney, private hospital
+    Perfect Vision Day Surgery-Sydney, private hospital
+    Port Macquarie Private Hospital-NSW Mid-North Coast, private hospital
+    Prince of Wales Private Hospital-Sydney, private hospital
+    Radiation Oncology Institute - Gosford-Sydney, private hospital
+    Radiation Oncology Institute - The Sydney Adventist Hospital Wahroonga-Sydney, private hospital
+    San Day Surgery Hornsby-Sydney, private hospital
+    South Pacific Private-SPP, Sydney, private hospital
+    Southern Highlands Private Hospital-includes Southern Highlands Cancer Centre, Illawarra, private hospital
+    St George Private Hospital-Sydney, private hospital
+    St John of God Burwood Hospital-Sydney, private hospital
+    St John of God Richmond Hospital-Sydney, private hospital
+    St Lukes Hospital-St Luke's Care, Sydney, private hospital
+    St Vincents Private Hospital [Lismore]-SVH, Richmond-Tweed, private hospital
+    St Vincents Private Sydney-St Vincent's Private Hospital, Sydney, private hospital
+    Strathfield Private Hospital-Sydney, private hospital
+    Sutherland Heart Clinic-Sydney, private hospital
+    Sydney Adventist Hospital-The San, Sydney, private hospital
+    Sydney Day Surgery - Prince Alfred-Sydney, private hospital
+    Sydney E.N.T. & Facial Day Surgery Centre-Sydney, private hospital
+    Sydney South West Private Hospital-Sydney, private hospital
+    Tamara Private Hospital-New England, private hospital
+    The Hills Clinic Kellyville-Sydney, private hospital
+    The Hills Private Hospital-Sydney, private hospital
+    The Skin & Cancer Foundation Australia-Westmead Day Clinic, Sydney, private hospital
+    The Sydney Clinic-Sydney, private hospital
+    The Sydney Private Hospital Incorporating the NSW Eye Centre-TSPH, Sydney, private hospital
+    Tweed Day Surgery-Richmond-Tweed, private hospital
+    Ulladulla Endoscopy and Medical Centre-Illawarra, private hospital
+    Vision Day Surgery Chatswood-Vision Eye Institute, Sydney, private hospital
+    Vision Day Surgery Hurstville-Vision Eye Institute, Sydney, private hospital
+    Wagga Endoscopy Centre-Murrumbidgee, private hospital
+    Waratah Private Hospital-Medica Centre, Sydney, private hospital
+    Warners Bay Private Hospital-Newcastle, Hunter, private hospital
+    Wesley Hospital Ashfield-Sydney, private hospital
+    Wesley Hospital Kogarah-Wandene Private Hospital, Sydney, private hospital
+    Western Sydney Oncology-Sydney, private hospital
+    Westmead Private Hospital-Sydney, private hospital
+    Westmead Rehabilitation Hospital-Westmead Rehab Hospital, Sydney, private hospital
+    Wollongong Day Surgery-Illawarra, private hospital
+    Wolper Jewish Hospital-Sydney, private hospital
+    Albury Wodonga Health [Albury Campus]-Murray, public hospital
+    Armidale Hospital-New England, public hospital
+    Auburn Hospital-Sydney, public hospital
+    Ballina Hospital-Richmond-Tweed, public hospital
+    Balmain Hospital-Sydney, public hospital
+    Balranald Multi Purpose Service-Murray, public hospital
+    Bankstown Lidcombe Hospital-Sydney, public hospital
+    Baradine Multi Purpose Service-North Western NSW, public hospital
+    Barham Hospital-Murray, public hospital
+    Barraba Multi Purpose Service-New England, public hospital
+    Batemans Bay Hospital-South Eastern NSW, public hospital
+    Bathurst Hospital-Central NSW, public hospital
+    Batlow/Adelong Multi Purpose Service-Murrumbidgee, public hospital
+    Bega Hospital-South Eastern NSW, public hospital
+    Bellinger River District Hospital-NSW Mid-North Coast, public hospital
+    Belmont Hospital-Newcastle, Hunter, public hospital
+    Berrigan Multi Purpose Service-Murray, public hospital
+    Bingara Multi Purpose Service-New England, public hospital
+    Blacktown Hospital-Sydney, public hospital
+    Blayney Multi Purpose Service-Central NSW, public hospital
+    Blue Mountains Hospital-Sydney, public hospital
+    Boggabri Multi Purpose Service-New England, public hospital
+    Bombala Multi Purpose Service-South Eastern NSW, public hospital
+    Bonalbo Hospital-Richmond-Tweed, public hospital
+    Boorowa Multi Purpose Service-South Eastern NSW, public hospital
+    Bourke Multi Purpose Service-North Western NSW, public hospital
+    Bourke Street Health Service-South Eastern NSW, public hospital
+    Bowral Hospital-Illawarra, public hospital
+    Braeside Hospital-Sydney, public hospital
+    Braidwood Multi Purpose Service-South Eastern NSW, public hospital
+    Brewarrina Multi Purpose Service-North Western NSW, public hospital
+    Broken Hill Hospital-Far West NSW, public hospital
+    Bulahdelah Hospital-Hunter, public hospital
+    Bulli Hospital-Wollongong, Illawarra, public hospital
+    Byron Bay Hospital-Richmond-Tweed, public hospital
+    Calvary Hospital-Sydney, public hospital
+    Calvary Mater Newcastle Hospital-Hunter, public hospital
+    Camden Hospital-Sydney, public hospital
+    Campbelltown Hospital-Sydney, public hospital
+    Canowindra Hospital-Central NSW, public hospital
+    Canterbury Hospital-Sydney, public hospital
+    Casino Hospital-Richmond-Tweed, public hospital
+    Cessnock Hospital-Hunter, public hospital
+    Cobar Hospital-North Western NSW, public hospital
+    Coffs Harbour Hospital-NSW Mid-North Coast, public hospital
+    Coledale Hospital-Wollongong, Illawarra, public hospital
+    Collarenebri Multi Purpose Service-North Western NSW, public hospital
+    Concord Hospital-Sydney, public hospital
+    Condobolin Hospital-Central NSW, public hospital
+    Coolah Multi Purpose Service-North Western NSW, public hospital
+    Coolamon Multi Purpose Service-Murrumbidgee, public hospital
+    Cooma Hospital-South Eastern NSW, public hospital
+    Coonabarabran Hospital-North Western NSW, public hospital
+    Coonamble Multi Purpose Service-North Western NSW, public hospital
+    Cootamundra Hospital-Murrumbidgee, public hospital
+    Coraki Hospital-Richmond-Tweed, public hospital
+    Coral Tree Family Centre-Sydney, public hospital
+    Corowa Hospital-Murray, public hospital
+    Cowra Hospital-Central NSW, public hospital
+    Crookwell Hospital-South Eastern NSW, public hospital
+    Cudal Health Service-Central NSW, public hospital
+    Culcairn Multi Purpose Service-Murray, public hospital
+    Cumberland Hospital-Sydney, public hospital
+    David Berry Hospital-Illawarra, public hospital
+    Delegate Multi Purpose Service-South Eastern NSW, public hospital
+    Deniliquin Hospital-Murray, public hospital
+    Denman Multi Purpose Service-Hunter, public hospital
+    Dorrigo Multi Purpose Service-NSW Mid-North Coast, public hospital
+    Dubbo Hospital-North Western NSW, public hospital
+    Dunedoo Multi Purpose Service-North Western NSW, public hospital
+    Dungog Hospital-Hunter, public hospital
+    Eugowra Hospital-Central NSW, public hospital
+    Fairfield Hospital-Sydney, public hospital
+    Finley Hospital-Murray, public hospital
+    Forbes Hospital-Central NSW, public hospital
+    Gilgandra Multi Purpose Service-North Western NSW, public hospital
+    Glen Innes Hospital-New England, public hospital
+    Gloucester Hospital-Hunter, public hospital
+    Goodooga Health Service-North Western NSW, public hospital
+    Gosford Hospital-Sydney, public hospital
+    Goulburn Hospital-South Eastern NSW, public hospital
+    Gower Wilson Multi Purpose Service-NSW Mid-North Coast, public hospital
+    Grafton Base Hospital-NSW Mid-North Coast, public hospital
+    Greenwich Hospital-Sydney, public hospital
+    Grenfell Multi Purpose Service-Central NSW, public hospital
+    Griffith Hospital-Murrumbidgee, public hospital
+    Gulargambone Multi Purpose Service-North Western NSW, public hospital
+    Gulgong Health Service-North Western NSW, public hospital
+    Gundagai Hospital-Murrumbidgee, public hospital
+    Gunnedah Hospital-New England, public hospital
+    Guyra Multi Purpose Service-New England, public hospital
+    Hawkesbury Hospital-Sydney, public hospital
+    Hay Hospital-Murrumbidgee, public hospital
+    Henty Multi Purpose Service-Murray, public hospital
+    Hillston Hospital-Murrumbidgee, public hospital
+    Holbrook Hospital-Murray, public hospital
+    Hornsby Ku-ring-gai Hospital-Sydney, public hospital
+    Hunter New England Mater Mental Health Service-Hunter, public hospital
+    Illawarra Mental Health Services-Illawarra, public hospital
+    Inverell Hospital-New England, public hospital
+    Ivanhoe Hospital-Far West NSW, public hospital
+    Jerilderie Multi Purpose Service-Murray, public hospital
+    John Hunter Hospital-Newcastle, Hunter, public hospital
+    Junee Multi Purpose Service-Murrumbidgee, public hospital
+    Justice Health Services-Sydney, public hospital
+    Karitane Mothercraft Society-Sydney, public hospital
+    Kempsey Hospital-NSW Mid-North Coast, public hospital
+    Kenmore Hospital-South Eastern NSW, public hospital
+    Kiama Hospital-Illawarra, public hospital
+    Kurri Kurri Hospital-Hunter, public hospital
+    Kyogle Multi Purpose Service-Richmond-Tweed, public hospital
+    Lake Cargelligo Multi Purpose Service-Central NSW, public hospital
+    Leeton Hospital-Murrumbidgee, public hospital
+    Lightning Ridge Multi Purpose Service-North Western NSW, public hospital
+    Lismore Hospital-Richmond-Tweed, public hospital
+    Lithgow Hospital-Central NSW, public hospital
+    Liverpool Hospital-Sydney, public hospital
+    Lockhart Hospital-Murrumbidgee, public hospital
+    Long Jetty Health Care Centre-Sydney, public hospital
+    Lourdes Hospital Dubbo-North Western NSW, public hospital
+    Macksville Hospital-NSW Mid-North Coast, public hospital
+    Maclean Hospital-NSW Mid-North Coast, public hospital
+    Macquarie Hospital-Sydney, public hospital
+    Maitland Hospital-Hunter, public hospital
+    Manilla Hospital-New England, public hospital
+    Manly Hospital-Sydney, public hospital
+    Manning Hospital-NSW Mid-North Coast, public hospital
+    Menindee Health Service-Far West NSW, public hospital
+    Mercy Care Hospital - Albury-Murray, public hospital
+    Mercy Care Hospital - Young-South Eastern NSW, public hospital
+    Merriwa Multi Purpose Service-Hunter, public hospital
+    Milton Ulladulla Hospital-Illawarra, public hospital
+    Molong Hospital-Central NSW, public hospital
+    Mona Vale Hospital-Sydney, public hospital
+    Moree Hospital-New England, public hospital
+    Morisset Hospital-Hunter, public hospital
+    Moruya Hospital-South Eastern NSW, public hospital
+    Mount Druitt Hospital-Sydney, public hospital
+    Mudgee Hospital-North Western NSW, public hospital
+    Mullumbimby Hospital-Richmond-Tweed, public hospital
+    Murrumburrah-Harden Hospital-South Eastern NSW, public hospital
+    Murwillumbah Hospital-Richmond-Tweed, public hospital
+    Muswellbrook Hospital-Hunter, public hospital
+    Narrabri Hospital-New England, public hospital
+    Narrandera Hospital-Murrumbidgee, public hospital
+    Narromine Hospital-North Western NSW, public hospital
+    Nepean Hospital-Sydney, public hospital
+    Neringah Hospital-Sydney, public hospital
+    Nimbin Multi Purpose Service-Richmond-Tweed, public hospital
+    Nyngan Multi Purpose Service-North Western NSW, public hospital
+    Oberon Multi Purpose Service-Central NSW, public hospital
+    Orange Health Service-Central NSW, public hospital
+    Pambula Hospital-South Eastern NSW, public hospital
+    Parkes Hospital-Central NSW, public hospital
+    Peak Hill Hospital-Central NSW, public hospital
+    Port Kembla Hospital-Wollongong, Illawarra, public hospital
+    Port Macquarie Hospital-NSW Mid-North Coast, public hospital
+    Portland Hospital-Central NSW, public hospital
+    Prince of Wales Hospital-POWH, Sydney, public hospital
+    Queanbeyan Hospital-South Eastern NSW, public hospital
+    Quirindi Hospital-New England, public hospital
+    Riverlands Drug and Alcohol Centre-Richmond-Tweed, public hospital
+    Royal Hospital for Women-RHW, Sydney, public hospital
+    Royal North Shore Hospital-Sydney, public hospital
+    Royal Prince Alfred Hospital-RPA, Sydney, public hospital
+    Royal Prince Alfred Institute of Rheumatology & Orthopaedics-RPA, Sydney, public hospital
+    Royal Rehabilitation Hospital-Sydney, public hospital
+    Ryde Hospital-Sydney, public hospital
+    Rylstone Multi Purpose Service-Central NSW, public hospital
+    Sacred Heart Hospice-Sydney, public hospital
+    Scone Hospital-Hunter, public hospital
+    Shellharbour Hospital-Wollongong, Illawarra, public hospital
+    Shoalhaven Hospital-Illawarra, public hospital
+    Singleton Hospital-Hunter, public hospital
+    Springwood Hospital-Sydney, public hospital
+    St George Hospital NSW-Sydney, public hospital
+    St Josephs Hospital-Sydney, public hospital
+    St Vincents Hospital-Sydney, public hospital
+    Sutherland Hospital-Sydney, public hospital
+    Sydney Childrens Hospital-Sydney, public hospital
+    Sydney Dental Hospital-Sydney, public hospital
+    Sydney Hospital / Sydney Eye Hospital-Sydney, public hospital
+    Tamworth Hospital-New England, public hospital
+    Temora Hospital-Murrumbidgee, public hospital
+    Tenterfield Hospital-New England, public hospital
+    The Childrens Hospital at Westmead-CHW, Sydney, public hospital
+    The Tweed Hospital-Richmond-Tweed, public hospital
+    Thomas Walker Hospital-Sydney, public hospital
+    Tibooburra Hospital-Far West NSW, public hospital
+    Tingha Multi Purpose Service-New England, public hospital
+    Tocumwal Hospital-Murray, public hospital
+    Tomaree Hospital-Hunter, public hospital
+    Tottenham Multi Purpose Service-Central NSW, public hospital
+    Trangie Multi Purpose Service-North Western NSW, public hospital
+    Tresillian Family Care Centre-Sydney, public hospital
+    Tresillian Family Care Centre-Sydney, public hospital
+    Trundle Multi Purpose Health Service-Central NSW, public hospital
+    Tullamore Multi Purpose Health Service-Central NSW, public hospital
+    Tumbarumba Multi Purpose Service-Murray, public hospital
+    Tumut Hospital-Murrumbidgee, public hospital
+    Urana Multi Purpose Service-Murray, public hospital
+    Urbenville Multi Purpose Service-New England, public hospital
+    Vegetable Creek Multi Purpose Service Emmaville-New England, public hospital
+    Wagga Wagga Hospital-Murrumbidgee, public hospital
+    Walcha Multi Purpose Service-New England, public hospital
+    Walgett Hospital-North Western NSW, public hospital
+    War Memorial Hospital-WMHW, Sydney, public hospital
+    Warialda Multi Purpose Service-New England, public hospital
+    Warren Multi Purpose Service-North Western NSW, public hospital
+    Wauchope Hospital-NSW Mid-North Coast, public hospital
+    Wee Waa Hospital-New England, public hospital
+    Wellington Hospital-North Western NSW, public hospital
+    Wentworth Hospital-Murray, public hospital
+    Wentworth Psychiatric Services-Sydney, public hospital
+    Werris Creek Hospital-New England, public hospital
+    Westmead Hospital-Sydney, public hospital
+    Wilcannia Multi Purpose Service-Far West NSW, public hospital
+    Wilson Memorial Community Hospital-Hunter, public hospital
+    Wingham Hospital-NSW Mid-North Coast, public hospital
+    Wollongong Hospital-Illawarra, public hospital
+    Woy Woy Hospital-Sydney, public hospital
+    Wyalong Hospital-Central NSW, public hospital
+    Wyong Hospital-Sydney, public hospital
+    Yass Hospital-South Eastern NSW, public hospital
+    Young Hospital-South Eastern NSW, public hospital

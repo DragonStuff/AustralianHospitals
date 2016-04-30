@@ -1,0 +1,104 @@
+    Adelaide Clinic-Greater Adelaide, private hospital
+    Adelaide Day Surgery Pty Ltd-Adelaide Day Surgery, Greater Adelaide, private hospital
+    Adelaide Eye & Laser Centre-Greater Adelaide, private hospital
+    Adelaide Surgicentre-Greater Adelaide, private hospital
+    Ashford Hospital-Adelaide Community Health Alliance, ACHA, Greater Adelaide, private hospital
+    Burnside War Memorial Hospital-Greater Adelaide, private hospital
+    Calvary Central Districts Hospital-Greater Adelaide, private hospital
+    Calvary North Adelaide Hospital-Greater Adelaide, private hospital
+    Calvary Rehabilitation Hospital-Formely Calvary College Grove, Greater Adelaide, private hospital
+    Calvary Wakefield Hospital-Greater Adelaide, private hospital
+    Flinders Private Hospital-Adelaide Community Health Alliance, ACHA, Greater Adelaide, private hospital
+    Fullarton Private Hospital-Adelaide, Greater Adelaide, private hospital
+    Glenelg Community Hospital Inc-Glenelg, Greater Adelaide, private hospital
+    Griffith Rehabilitation Hospital-Greater Adelaide, private hospital
+    Kahlyn Day Centre-Greater Adelaide, private hospital
+    McLaren Vale & Districts War Memorial Hospital Inc-Greater Adelaide, private hospital
+    Mount Gambier Private Hospital-Eastern SA, private hospital
+    Oxford Day Surgery Centre-Greater Adelaide, private hospital
+    Parkside Cosmetic Surgery-Greater Adelaide, private hospital
+    Parkwynd Private Hospital-Greater Adelaide, private hospital
+    SPORTSMED SA Hospital & Day Surgery-Greater Adelaide, private hospital
+    St Andrews Hospital-Greater Adelaide, private hospital
+    Stirling Hospital-Greater Adelaide, private hospital
+    The Memorial Hospital-Adelaide Community Health Alliance, ACHA, Greater Adelaide, private hospital
+    Western Hospital-Western Community Hospital, Greater Adelaide, private hospital
+    Andamooka Outpost Hospital-Northern SA, public hospital
+    Angaston District Hospital-Greater Adelaide, public hospital
+    Balaklava Soldiers Memorial District Hospital-Yorke Peninsula, public hospital
+    Barmera Health Service-Eastern SA, public hospital
+    Booleroo Centre District Hospital and Health Services-Northern SA, public hospital
+    Bordertown Memorial Hospital-Eastern SA, public hospital
+    Burra Hospital-Yorke Peninsula, public hospital
+    Ceduna District Health Service-Eyre, public hospital
+    Central Yorke Peninsula Hospital (Maitland)-Maitland
+    Clare Hospital-Yorke Peninsula, public hospital
+    Cleve District Hospital and Aged Care-Eyre, public hospital
+    Coober Pedy Hospital and Health Service-Northern SA, public hospital
+    Cowell District Hospital and Aged Care-Eyre, public hospital
+    Crystal Brook and District Hospital-Northern SA, public hospital
+    Cummins and District Memorial Hospital-Eyre, public hospital
+    Elliston Hospital-Eyre, public hospital
+    Eudunda Hospital-Yorke Peninsula, public hospital
+    Flinders Medical Centre-FMC, Greater Adelaide, public hospital
+    Gawler Health Service-Greater Adelaide, public hospital
+    Glenside Health Services-Glenside Hospital, Greater Adelaide, public hospital
+    Gumeracha District Soldiers Memorial Hospital-Greater Adelaide, public hospital
+    Hampstead Rehabilitation Centre-Greater Adelaide, public hospital
+    Hawker Memorial Hospital-Northern SA, public hospital
+    Jamestown Hospital and Health Service-Northern SA, public hospital
+    Kangaroo Island Health Service-Greater Adelaide, public hospital
+    Kapunda Hospital-Greater Adelaide, public hospital
+    Karoonda and District Soldiers Memorial Hospital-Eastern SA, public hospital
+    Kimba District Hospital and Aged Care-Eyre, public hospital
+    Kingston Soldiers Memorial Hospital-Eastern SA, public hospital
+    Lameroo District Health Service-Eastern SA, public hospital
+    Laura and District Hospital-Northern SA, public hospital
+    Leigh Creek Health Service-Northern SA, public hospital
+    Loxton Hospital Complex-Eastern SA, public hospital
+    Lyell McEwin Hospital-LMHS, Greater Adelaide, public hospital
+    Mannum District Hospital-Eastern SA, public hospital
+    Marree Health Services-Northern SA, public hospital
+    Meningie and Districts Memorial Hospital and Health Services-Eastern SA, public hospital
+    Millicent and Districts Hospital and Health Service-Eastern SA, public hospital
+    Modbury Hospital-Greater Adelaide, public hospital
+    Mount Barker District Soldiers Memorial Hospital-Greater Adelaide, public hospital
+    Mount Gambier and Districts Health Service-Eastern SA, public hospital
+    Mount Pleasant District Hospital-Greater Adelaide, public hospital
+    Murray Bridge Soldiers Memorial Hospital-MBSMH, Eastern SA, public hospital
+    Naracoorte Health Service-Eastern SA, public hospital
+    Noarlunga Public Hospital-NHS, Greater Adelaide, public hospital
+    Northern Yorke Peninsula Health Service (Wallaroo)-Wallaroo
+    Oakden Hospital-Greater Adelaide, public hospital
+    Oodnadatta Clinic-Northern SA, public hospital
+    Orroroo and District Health Service-Northern SA, public hospital
+    Penola War Memorial Hospital-Eastern SA, public hospital
+    Peterborough Soldiers Memorial Hospital-Northern SA, public hospital
+    Pinnaroo Soldiers Memorial Hospital-Eastern SA, public hospital
+    Port Augusta Hospital and Regional Health Services-Northern SA, public hospital
+    Port Broughton and District Hospital and Health Service-Yorke Peninsula, public hospital
+    Port Lincoln Health Service-Eyre, public hospital
+    Port Pirie Regional Health Service-Northern SA, public hospital
+    Pregnancy Advisory Centre-Greater Adelaide, public hospital
+    Quorn Health Service-Northern SA, public hospital
+    Renmark Paringa District Hospital-Eastern SA, public hospital
+    Repatriation General Hospital-RGH, Greater Adelaide, public hospital
+    Riverland General Hospital-Berri Hospital, Eastern SA, public hospital
+    Riverton District Soldiers Memorial Hospital-Yorke Peninsula, public hospital
+    Roxby Downs Health Service-Northern SA, public hospital
+    Royal Adelaide Hospital-RAH, Greater Adelaide, public hospital
+    Snowtown Hospital and Health Service-Yorke Peninsula, public hospital
+    South Coast District Hospital-Greater Adelaide, public hospital
+    South East Regional CHS-Eastern SA, public hospital
+    Southern Yorke Peninsula Health Service (Yorketown)-Yorketown
+    St Margarets Hospital-Greater Adelaide, public hospital
+    Strathalbyn and District Health Service-Greater Adelaide, public hospital
+    Streaky Bay Hospital-Eyre, public hospital
+    Tailem Bend District Hospital-Eastern SA, public hospital
+    Tanunda War Memorial Hospital-Greater Adelaide, public hospital
+    The Queen Elizabeth Hospital-QEH, TQEH, Greater Adelaide, public hospital
+    Tumby Bay Hospital and Health Services-Eyre, public hospital
+    Waikerie Health Service-Eastern SA, public hospital
+    Whyalla Hospital and Health Services-Northern SA, public hospital
+    Womens and Childrens Hospital-WCH, Greater Adelaide, public hospital
+    Wudinna Hospital-Wudinna Hospital, Eyre, public hospital

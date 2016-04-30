@@ -1,0 +1,21 @@
+    Abbotsford Private Hospital-Perth, private hospital
+    Attadale Rehabilitation Hospital-Perth, private hospital
+    Bethesda Hospital-Perth, private hospital
+    Colin Street Day Hospital-CSDS, Perth, private hospital
+    Glengarry Private Hospital-Perth, private hospital
+    Hollywood Private Hospital-Perth, private hospital
+    Joondalup Health Campus (Private)-Private
+    Mount Hospital-The Mount, Perth, private hospital
+    Oxford Day Surgery and Dermatology-Oxford Day Surgery WA, Perth, private hospital
+    Perth Clinic-Perth, private hospital
+    Sentiens Clinic-Sentiens Medical Services, Perth, private hospital
+    South Perth Hospital-Perth, private hospital
+    St John of God Bunbury Hospital-South West WA, private hospital
+    St John of God Geraldton Hospital-Midwest, private hospital
+    St John of God Mt Lawley Hospital-Perth, private hospital
+    St John of God Murdoch Hospital-Perth, private hospital
+    St John of God Subiaco Hospital-Perth, private hospital
+    Subiaco Private Hospital-Perth, private hospital
+    Waikiki Private Hospital-Perth, private hospital
+    Walcott Street Surgical Centre-WSSC, Perth, private hospital
+    Westminster Day Surgery-Perth, private hospital

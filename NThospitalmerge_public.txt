@@ -1,0 +1,5 @@
+    Alice Springs Hospital-Northern Territory, public hospital
+    Gove Hospital-Northern Territory, public hospital
+    Katherine Hospital-Northern Territory, public hospital
+    Royal Darwin Hospital-Northern Territory, public hospital
+    Tennant Creek Hospital-Northern Territory, public hospital

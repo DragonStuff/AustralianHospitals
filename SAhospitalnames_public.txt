@@ -1,0 +1,79 @@
+    Andamooka Outpost Hospital
+    Angaston District Hospital
+    Balaklava Soldiers Memorial District Hospital
+    Barmera Health Service
+    Booleroo Centre District Hospital and Health Services
+    Bordertown Memorial Hospital
+    Burra Hospital
+    Ceduna District Health Service
+    Central Yorke Peninsula Hospital (Maitland)
+    Clare Hospital
+    Cleve District Hospital and Aged Care
+    Coober Pedy Hospital and Health Service
+    Cowell District Hospital and Aged Care
+    Crystal Brook and District Hospital
+    Cummins and District Memorial Hospital
+    Elliston Hospital
+    Eudunda Hospital
+    Flinders Medical Centre
+    Gawler Health Service
+    Glenside Health Services
+    Gumeracha District Soldiers Memorial Hospital
+    Hampstead Rehabilitation Centre
+    Hawker Memorial Hospital
+    Jamestown Hospital and Health Service
+    Kangaroo Island Health Service
+    Kapunda Hospital
+    Karoonda and District Soldiers Memorial Hospital
+    Kimba District Hospital and Aged Care
+    Kingston Soldiers Memorial Hospital
+    Lameroo District Health Service
+    Laura and District Hospital
+    Leigh Creek Health Service
+    Loxton Hospital Complex
+    Lyell McEwin Hospital
+    Mannum District Hospital
+    Marree Health Services
+    Meningie and Districts Memorial Hospital and Health Services
+    Millicent and Districts Hospital and Health Service
+    Modbury Hospital
+    Mount Barker District Soldiers Memorial Hospital
+    Mount Gambier and Districts Health Service
+    Mount Pleasant District Hospital
+    Murray Bridge Soldiers Memorial Hospital
+    Naracoorte Health Service
+    Noarlunga Public Hospital
+    Northern Yorke Peninsula Health Service (Wallaroo)
+    Oakden Hospital
+    Oodnadatta Clinic
+    Orroroo and District Health Service
+    Penola War Memorial Hospital
+    Peterborough Soldiers Memorial Hospital
+    Pinnaroo Soldiers Memorial Hospital
+    Port Augusta Hospital and Regional Health Services
+    Port Broughton and District Hospital and Health Service
+    Port Lincoln Health Service
+    Port Pirie Regional Health Service
+    Pregnancy Advisory Centre
+    Quorn Health Service
+    Renmark Paringa District Hospital
+    Repatriation General Hospital
+    Riverland General Hospital
+    Riverton District Soldiers Memorial Hospital
+    Roxby Downs Health Service
+    Royal Adelaide Hospital
+    Snowtown Hospital and Health Service
+    South Coast District Hospital
+    South East Regional CHS
+    Southern Yorke Peninsula Health Service (Yorketown)
+    St Margarets Hospital
+    Strathalbyn and District Health Service
+    Streaky Bay Hospital
+    Tailem Bend District Hospital
+    Tanunda War Memorial Hospital
+    The Queen Elizabeth Hospital
+    Tumby Bay Hospital and Health Services
+    Waikerie Health Service
+    Whyalla Hospital and Health Services
+    Womens and Childrens Hospital
+    Wudinna Hospital

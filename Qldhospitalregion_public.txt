@@ -1,0 +1,187 @@
+Part of the Alpha Multi Purpose Health Service, Fitzroy, public hospital
+Aramac Hospital, Central West Qld, public hospital
+Far North Qld, public hospital
+South West Qld, public hospital
+Far North Qld, public hospital
+Mackay and Northern Qld, public hospital
+Far North Qld, public hospital
+Far North Qld, public hospital
+Darling Downs, public hospital
+Far North Qld, public hospital
+Part of the Baralaba Multi Purpose Health Service, Fitzroy, public hospital
+Part of the Barcaldine Multi Purpose Health Service, Central West Qld, public hospital
+Gold Coast, Sunshine Coast and West Moreton, public hospital
+Wide Bay-Burnett, public hospital
+Fitzroy, public hospital
+Central West Qld, public hospital
+Part of the Blackwater Multi Purpose Health Service, Fitzroy, public hospital
+Far North Qld, public hospital
+Bollon Bush Nursing Service, South West Qld, public hospital
+Gold Coast, Sunshine Coast and West Moreton, public hospital
+Central West Qld, public hospital
+Mackay and Northern Qld, public hospital
+Wide Bay-Burnett, public hospital
+North West Qld, public hospital
+Brisbane, public hospital
+Cairns Base Hospital, Far North Qld, public hospital
+Sunshine Coast, Gold Coast, Sunshine Coast and West Moreton, public hospital
+North West Qld, public hospital
+Fitzroy, public hospital
+Fitzroy, public hospital
+South West Qld, public hospital
+Mackay and Northern Qld, public hospital
+Mackay and Northern Qld, public hospital
+Wide Bay-Burnett, public hospital
+Wide Bay-Burnett, public hospital
+Far North Qld, public hospital
+Darling Downs, public hospital
+Mackay and Northern Qld, public hospital
+North West Qld, public hospital
+Far North Qld, public hospital
+Far North Qld, public hospital
+Mackay and Northern Qld, public hospital
+Part of the Cooktown Multi Purpose Health Service, Far North Qld, public hospital
+Fitzroy, public hospital
+Far North Qld, public hospital
+South West Qld, public hospital
+North West Qld, public hospital
+Darling Downs, public hospital
+Far North Qld, public hospital
+Far North Qld, public hospital
+Far North Qld, public hospital
+South West Qld, public hospital
+North West Qld, public hospital
+Fitzroy, public hospital
+Mackay and Northern Qld, public hospital
+Wide Bay-Burnett, public hospital
+Brisbane, public hospital
+Fitzroy, public hospital
+Gold Coast, Sunshine Coast and West Moreton, public hospital
+Far North Qld, public hospital
+Gold Coast, Sunshine Coast and West Moreton, public hospital
+Wide Bay-Burnett, public hospital
+Fitzroy, public hospital
+Far North Qld, public hospital
+Wide Bay-Burnett, public hospital
+Fitzroy, public hospital
+Darling Downs, public hospital
+Gold Coast Hospital, Gold Coast, Sunshine Coast and West Moreton, public hospital
+Darling Downs, public hospital
+Far North Qld, public hospital
+Yarrabah Hospital, Cairns, Far North Qld, public hospital
+Wide Bay-Burnett, public hospital
+Far North Qld, public hospital
+Wide Bay-Burnett, public hospital
+Mackay and Northern Qld, public hospital
+Far North Qld, public hospital
+North West Qld, public hospital
+Mackay and Northern Qld, public hospital
+Part of the Inglewood Multi Purpose Health Service, Darling Downs, public hospital
+South West Qld, public hospital
+Far North Qld, public hospital
+Brisbane, public hospital
+Central West Qld, public hospital
+Far North Qld, public hospital
+Darling Downs, public hospital
+Mackay and Northern Qld, public hospital
+North West Qld, public hospital
+Central West Qld, public hospital
+North West Qld, public hospital
+Gold Coast, Sunshine Coast and West Moreton, public hospital
+Wide Bay-Burnett, public hospital
+Townsville, Mackay and Northern Qld, public hospital
+Far North Qld, public hospital
+Far North Qld, public hospital
+Brisbane, public hospital
+Gold Coast, Sunshine Coast and West Moreton, public hospital
+Far North Qld, public hospital
+Far North Qld, public hospital
+Brisbane, public hospital
+Central West Qld, public hospital
+Far North Qld, public hospital
+Mackay and Northern Qld, public hospital
+Townsville, Mackay and Northern Qld, public hospital
+Napranum Primary Health Care Centre, Far North Qld, public hospital
+Far North Qld, public hospital
+Maleny Hospital, Gold Coast, Sunshine Coast and West Moreton, public hospital
+Far North Qld, public hospital
+Far North Qld, public hospital
+Dunwich Health Service Centre, Brisbane, public hospital
+Wide Bay-Burnett, public hospital
+Brisbane, public hospital
+Brisbane, public hospital
+Brisbane, public hospital
+Darling Downs, public hospital
+Darling Downs, public hospital
+Far North Qld, public hospital
+Darling Downs, public hospital
+South West Qld, public hospital
+Wide Bay-Burnett, public hospital
+Darling Downs, public hospital
+Mackay and Northern Qld, public hospital
+North West Qld, public hospital
+South West Qld, public hospital
+Part of the Douglas Shire Multi Purpose Health Centre, Far North Qld, public hospital
+Far North Qld, public hospital
+North West Qld, public hospital
+Fitzroy, public hospital
+Wide Bay-Burnett, public hospital
+Fitzroy, public hospital
+Wide Bay-Burnett, public hospital
+South West Qld, public hospital
+Wide Bay-Burnett, public hospital
+Far North Qld, public hospital
+Central West Qld, public hospital
+Sunshine Coast, Gold Coast, Sunshine Coast and West Moreton, public hospital
+Wide Bay-Burnett, public hospital
+North West Qld, public hospital
+Darling Downs, public hospital
+Far North Qld, public hospital
+PAH, Brisbane, public hospital
+Mackay and Northern Qld, public hospital
+Brisbane, public hospital
+South West Qld, public hospital
+Far North Qld, public hospital
+Brisbane, public hospital
+Brisbane, public hospital
+North West Qld, public hospital
+Gold Coast, Sunshine Coast and West Moreton, public hospital
+Rockhampton Base Hospital, Fitzroy, public hospital
+South West Qld, public hospital
+RBH, RBWH, Brisbane, public hospital
+RCH, Brisbane, public hospital
+Far North Qld, public hospital
+Mackay and Northern Qld, public hospital
+Part of the Bauhinia Multi Purpose Health Service, Fitzroy, public hospital
+South West Qld, public hospital
+Far North Qld, public hospital
+Darling Downs, public hospital
+Far North Qld, public hospital
+South West Qld, public hospital
+Central West Qld, public hospital
+Darling Downs, public hospital
+Darling Downs, public hospital
+Darling Downs, public hospital
+South West Qld, public hospital
+Brisbane, public hospital
+TPCH, Brisbane, public hospital
+Mackay and Northern Qld, public hospital
+Part of the Theodore Multi Purpose Health Centre, Fitzroy, public hospital
+Far North Qld, public hospital
+Far North Qld, public hospital
+Darling Downs, public hospital
+Far North Qld, public hospital
+South West Qld, public hospital
+Darling Downs, public hospital
+Far North Qld, public hospital
+Darling Downs, public hospital
+Part of the Weipa Integrated Health Service, Far North Qld, public hospital
+Central West Qld, public hospital
+Part of the Winton Multi Purpose Health Service, Central West Qld, public hospital
+Wide Bay-Burnett, public hospital
+Part of the Woorabinda Multi Purpose Health Service, Fitzroy, public hospital
+Wujal Wujal Community Hospital, Far North Qld, public hospital
+Brisbane, public hospital
+Far North Qld, public hospital
+Central West Qld, public hospital
+Far North Qld, public hospital

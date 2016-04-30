@@ -1,0 +1,97 @@
+Sydney, private hospital
+Murray, private hospital
+Sydney, private hospital
+New England, private hospital
+Richmond-Tweed, private hospital
+NSW Mid-North Coast, private hospital
+Central NSW, private hospital
+South Eastern NSW, private hospital
+Sydney, private hospital
+Sydney, private hospital
+Calvary, Murrumbidgee, private hospital
+Sydney, private hospital
+Castle Hill Hospital, Sydney, private hospital
+Sydney, private hospital
+Sydney, private hospital
+CDD, Sydney, private hospital
+NSW Mid-North Coast, private hospital
+NSW Mid-North Coast, private hospital
+CNDS, Sydney, private hospital
+Sydney, private hospital
+Sydney, private hospital
+DEC, Sydney, private hospital
+Dudley Private Hospital, Central NSW, private hospital
+Sydney, private hospital
+Sydney, private hospital
+Wollongong, Illawarra, private hospital
+Cape Hawke, Hunter, private hospital
+NSW Mid-North Coast, private hospital
+Newcastle, Hunter, private hospital
+Sydney, private hospital
+Sydney, private hospital
+Sydney, private hospital
+Sydney, private hospital
+Sydney, private hospital
+Newcastle, Hunter, private hospital
+Wollongong, Illawarra, private hospital
+Sydney, private hospital
+MUH, Sydney, private hospital
+Mater North Sydney, Sydney, private hospital
+Metropolitan Rehabilitation Hospital, Sydney, private hospital
+Sydney, private hospital
+Sydney, private hospital
+South Eastern NSW, private hospital
+Sydney, private hospital
+Mt Wilga Private Hospital, Sydney, private hospital
+Sydney, private hospital
+Hunter, private hospital
+Sydney, private hospital
+Sydney, private hospital
+Sydney, private hospital
+Sydney, private hospital
+Sydney, private hospital
+Sydney, private hospital
+Illawarra, private hospital
+North Shore
+Central NSW, private hospital
+Sydney, private hospital
+Sydney, private hospital
+NSW Mid-North Coast, private hospital
+Sydney, private hospital
+Sydney, private hospital
+Sydney, private hospital
+Sydney, private hospital
+SPP, Sydney, private hospital
+includes Southern Highlands Cancer Centre, Illawarra, private hospital
+Sydney, private hospital
+Sydney, private hospital
+Sydney, private hospital
+St Luke's Care, Sydney, private hospital
+SVH, Richmond-Tweed, private hospital
+St Vincent's Private Hospital, Sydney, private hospital
+Sydney, private hospital
+Sydney, private hospital
+The San, Sydney, private hospital
+Sydney, private hospital
+Sydney, private hospital
+Sydney, private hospital
+New England, private hospital
+Sydney, private hospital
+Sydney, private hospital
+Westmead Day Clinic, Sydney, private hospital
+Sydney, private hospital
+TSPH, Sydney, private hospital
+Richmond-Tweed, private hospital
+Illawarra, private hospital
+Vision Eye Institute, Sydney, private hospital
+Vision Eye Institute, Sydney, private hospital
+Murrumbidgee, private hospital
+Medica Centre, Sydney, private hospital
+Newcastle, Hunter, private hospital
+Sydney, private hospital
+Wandene Private Hospital, Sydney, private hospital
+Sydney, private hospital
+Sydney, private hospital
+Westmead Rehab Hospital, Sydney, private hospital
+Illawarra, private hospital
+Sydney, private hospital

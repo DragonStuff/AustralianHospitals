@@ -1,0 +1,225 @@
+    Albury Wodonga Health [Albury Campus]
+    Armidale Hospital
+    Auburn Hospital
+    Ballina Hospital
+    Balmain Hospital
+    Balranald Multi Purpose Service
+    Bankstown Lidcombe Hospital
+    Baradine Multi Purpose Service
+    Barham Hospital
+    Barraba Multi Purpose Service
+    Batemans Bay Hospital
+    Bathurst Hospital
+    Batlow/Adelong Multi Purpose Service
+    Bega Hospital
+    Bellinger River District Hospital
+    Belmont Hospital
+    Berrigan Multi Purpose Service
+    Bingara Multi Purpose Service
+    Blacktown Hospital
+    Blayney Multi Purpose Service
+    Blue Mountains Hospital
+    Boggabri Multi Purpose Service
+    Bombala Multi Purpose Service
+    Bonalbo Hospital
+    Boorowa Multi Purpose Service
+    Bourke Multi Purpose Service
+    Bourke Street Health Service
+    Bowral Hospital
+    Braeside Hospital
+    Braidwood Multi Purpose Service
+    Brewarrina Multi Purpose Service
+    Broken Hill Hospital
+    Bulahdelah Hospital
+    Bulli Hospital
+    Byron Bay Hospital
+    Calvary Hospital
+    Calvary Mater Newcastle Hospital
+    Camden Hospital
+    Campbelltown Hospital
+    Canowindra Hospital
+    Canterbury Hospital
+    Casino Hospital
+    Cessnock Hospital
+    Cobar Hospital
+    Coffs Harbour Hospital
+    Coledale Hospital
+    Collarenebri Multi Purpose Service
+    Concord Hospital
+    Condobolin Hospital
+    Coolah Multi Purpose Service
+    Coolamon Multi Purpose Service
+    Cooma Hospital
+    Coonabarabran Hospital
+    Coonamble Multi Purpose Service
+    Cootamundra Hospital
+    Coraki Hospital
+    Coral Tree Family Centre
+    Corowa Hospital
+    Cowra Hospital
+    Crookwell Hospital
+    Cudal Health Service
+    Culcairn Multi Purpose Service
+    Cumberland Hospital
+    David Berry Hospital
+    Delegate Multi Purpose Service
+    Deniliquin Hospital
+    Denman Multi Purpose Service
+    Dorrigo Multi Purpose Service
+    Dubbo Hospital
+    Dunedoo Multi Purpose Service
+    Dungog Hospital
+    Eugowra Hospital
+    Fairfield Hospital
+    Finley Hospital
+    Forbes Hospital
+    Gilgandra Multi Purpose Service
+    Glen Innes Hospital
+    Gloucester Hospital
+    Goodooga Health Service
+    Gosford Hospital
+    Goulburn Hospital
+    Gower Wilson Multi Purpose Service
+    Grafton Base Hospital
+    Greenwich Hospital
+    Grenfell Multi Purpose Service
+    Griffith Hospital
+    Gulargambone Multi Purpose Service
+    Gulgong Health Service
+    Gundagai Hospital
+    Gunnedah Hospital
+    Guyra Multi Purpose Service
+    Hawkesbury Hospital
+    Hay Hospital
+    Henty Multi Purpose Service
+    Hillston Hospital
+    Holbrook Hospital
+    Hornsby Ku-ring-gai Hospital
+    Hunter New England Mater Mental Health Service
+    Illawarra Mental Health Services
+    Inverell Hospital
+    Ivanhoe Hospital
+    Jerilderie Multi Purpose Service
+    John Hunter Hospital
+    Junee Multi Purpose Service
+    Justice Health Services
+    Karitane Mothercraft Society
+    Kempsey Hospital
+    Kenmore Hospital
+    Kiama Hospital
+    Kurri Kurri Hospital
+    Kyogle Multi Purpose Service
+    Lake Cargelligo Multi Purpose Service
+    Leeton Hospital
+    Lightning Ridge Multi Purpose Service
+    Lismore Hospital
+    Lithgow Hospital
+    Liverpool Hospital
+    Lockhart Hospital
+    Long Jetty Health Care Centre
+    Lourdes Hospital Dubbo
+    Macksville Hospital
+    Maclean Hospital
+    Macquarie Hospital
+    Maitland Hospital
+    Manilla Hospital
+    Manly Hospital
+    Manning Hospital
+    Menindee Health Service
+    Mercy Care Hospital - Albury
+    Mercy Care Hospital - Young
+    Merriwa Multi Purpose Service
+    Milton Ulladulla Hospital
+    Molong Hospital
+    Mona Vale Hospital
+    Moree Hospital
+    Morisset Hospital
+    Moruya Hospital
+    Mount Druitt Hospital
+    Mudgee Hospital
+    Mullumbimby Hospital
+    Murrumburrah-Harden Hospital
+    Murwillumbah Hospital
+    Muswellbrook Hospital
+    Narrabri Hospital
+    Narrandera Hospital
+    Narromine Hospital
+    Nepean Hospital
+    Neringah Hospital
+    Nimbin Multi Purpose Service
+    Nyngan Multi Purpose Service
+    Oberon Multi Purpose Service
+    Orange Health Service
+    Pambula Hospital
+    Parkes Hospital
+    Peak Hill Hospital
+    Port Kembla Hospital
+    Port Macquarie Hospital
+    Portland Hospital
+    Prince of Wales Hospital
+    Queanbeyan Hospital
+    Quirindi Hospital
+    Riverlands Drug and Alcohol Centre
+    Royal Hospital for Women
+    Royal North Shore Hospital
+    Royal Prince Alfred Hospital
+    Royal Prince Alfred Institute of Rheumatology & Orthopaedics
+    Royal Rehabilitation Hospital
+    Ryde Hospital
+    Rylstone Multi Purpose Service
+    Sacred Heart Hospice
+    Scone Hospital
+    Shellharbour Hospital
+    Shoalhaven Hospital
+    Singleton Hospital
+    Springwood Hospital
+    St George Hospital NSW
+    St Josephs Hospital
+    St Vincents Hospital
+    Sutherland Hospital
+    Sydney Childrens Hospital
+    Sydney Dental Hospital
+    Sydney Hospital / Sydney Eye Hospital
+    Tamworth Hospital
+    Temora Hospital
+    Tenterfield Hospital
+    The Childrens Hospital at Westmead
+    The Tweed Hospital
+    Thomas Walker Hospital
+    Tibooburra Hospital
+    Tingha Multi Purpose Service
+    Tocumwal Hospital
+    Tomaree Hospital
+    Tottenham Multi Purpose Service
+    Trangie Multi Purpose Service
+    Tresillian Family Care Centre
+    Tresillian Family Care Centre
+    Trundle Multi Purpose Health Service
+    Tullamore Multi Purpose Health Service
+    Tumbarumba Multi Purpose Service
+    Tumut Hospital
+    Urana Multi Purpose Service
+    Urbenville Multi Purpose Service
+    Vegetable Creek Multi Purpose Service Emmaville
+    Wagga Wagga Hospital
+    Walcha Multi Purpose Service
+    Walgett Hospital
+    War Memorial Hospital
+    Warialda Multi Purpose Service
+    Warren Multi Purpose Service
+    Wauchope Hospital
+    Wee Waa Hospital
+    Wellington Hospital
+    Wentworth Hospital
+    Wentworth Psychiatric Services
+    Werris Creek Hospital
+    Westmead Hospital
+    Wilcannia Multi Purpose Service
+    Wilson Memorial Community Hospital
+    Wingham Hospital
+    Wollongong Hospital
+    Woy Woy Hospital
+    Wyalong Hospital
+    Wyong Hospital
+    Yass Hospital
+    Young Hospital

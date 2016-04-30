@@ -1,0 +1,85 @@
+    Albert Road Clinic
+    Avenue Plastic Surgery
+    Ballarat Day Procedure Centre
+    Beleura Private Hospital
+    Bellbird Private Hospital
+    Berwick Eye and Surgicentre
+    Cabrini Brighton
+    Cabrini Health Elsternwick Rehabilitation - Glenhuntly Rd
+    Cabrini Health Elsternwick Rehabilitation - Hopetoun
+    Cabrini Malvern
+    Cabrini Prahran
+    Chesterville Day Hospital
+    Como Private Hospital
+    Corymbia House
+    Cotham Private Hospital
+    Donvale Rehabilitation Hospital
+    Dorset Rehabilitation Centre
+    Epworth Cliveden
+    Epworth Eastern
+    Epworth Freemasons [Clarendon Street]
+    Epworth Freemasons [Victoria Parade]
+    Epworth Hawthorn
+    Epworth Rehabilitation Brighton
+    Epworth Rehabilitation Camberwell
+    Epworth Rehabilitation Richmond
+    Epworth Richmond
+    Essendon Private Hospital
+    Frances Perry House
+    Frankston Private Day Surgery
+    Geelong Private Hospital
+    Glen Eira Day Surgery
+    Glenferrie Private Hospital
+    Healthscope Independence Services
+    Heidelberg Endoscopy & Day Surgery Centre
+    Hobsons Bay Endoscopy Centre Altona
+    Hobsons Bay Endoscopy Centre Sydenham
+    Hobsons Bay Endoscopy Centre Werribee
+    John Fawkner Private Hospital
+    Jolimont Endoscopy
+    Knox Private Hospital
+    Linacre Private Hospital
+    Manningham Day Procedure Centre
+    Maryvale Private Hospital
+    Masada Private Hospital
+    Melbourne MediBrain & MediSleep Centre
+    Melbourne Oral & Facial Surgery
+    Melbourne Private Hospital
+    Mildura Private Hospital
+    Mitcham Private Hospital
+    Murray Valley Private Hospital
+    North Eastern Rehabilitation Centre
+    Northpark Private Hospital
+    Peninsula Oncology Centre
+    Peninsula Private Hospital Victoria
+    Ringwood Private Hospital
+    Rosebud SurgiCentre
+    Shepparton Private Hospital
+    South Eastern Private
+    St John of God Ballarat Hospital
+    St John of God Bendigo Hospital
+    St John of God Berwick Hospital
+    St John of God Frankston Rehabilitation Hospital
+    St John of God Geelong Hospital
+    St John of God Pinelodge Clinic
+    St John of God Warrnambool Hospital
+    St Vincents Private Hospital East Melbourne
+    St Vincents Private Hospital Fitzroy
+    St Vincents Private Hospital Kew
+    The Avenue Hospital
+    The Bays Hospital
+    The Geelong Clinic
+    The Melbourne Clinic
+    The Valley Private Hospital
+    The Victoria Clinic
+    The Victorian Rehabilitation Centre
+    Victoria Parade Surgery Centre
+    Vision Day Surgery Camberwell
+    Vision Day Surgery Eastern
+    Vision Day Surgery Footscray
+    Vision Eye Institute
+    Wangaratta Private Hospital
+    Warringal Private Hospital
+    Waverley Private Hospital
+    Western Gastroenterology Services
+    Western Private Hospital

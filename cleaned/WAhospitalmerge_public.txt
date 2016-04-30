@@ -1,0 +1,99 @@
+    Albany Hospital-Great Southern WA, public hospital
+    Armadale-Kelmscott Memorial Hospital-Perth, public hospital
+    Augusta Hospital-South West WA, public hospital
+    Bentley Hospital-Perth, public hospital
+    Beverley Hospital-Wheatbelt, public hospital
+    Boddington Hospital-Wheatbelt, public hospital
+    Boyup Brook Soldiers Memorial Hospital-South West WA, public hospital
+    Bridgetown Hospital-South West WA, public hospital
+    Broome Hospital-Northern WA, public hospital
+    Bruce Rock Memorial Hospital-Wheatbelt, public hospital
+    Busselton Health Campus-South West WA, public hospital
+    Carnarvon Hospital-Midwest, public hospital
+    Casterton Memorial Hospital-SWARH, South-Western Vic, public hospital
+    Collie Hospital-South West WA, public hospital
+    Corrigin Hospital-Wheatbelt, public hospital
+    Cunderdin Hospital-Wheatbelt, public hospital
+    Dalwallinu Hospital-Wheatbelt, public hospital
+    Denmark Hospital and Health Service-Denmark Hospital, Great Southern WA, public hospital
+    Derby Hospital-Northern WA, public hospital
+    Dongara Eneabba Mingenew Health Service-Midwest, public hospital
+    Donnybrook Hospital-South West WA, public hospital
+    Dumbleyung Memorial Hospital-Great Southern WA, public hospital
+    Esperance Hospital-Goldfields, public hospital
+    Exmouth Hospital-Midwest, public hospital
+    Fiona Stanley Hospital-Perth, public hospital
+    Fitzroy Crossing Hospital-Northern WA, public hospital
+    Fremantle Hospital-FHHS, Perth, public hospital
+    Geraldton Hospital-Midwest, public hospital
+    Gnowangerup Hospital-Great Southern WA, public hospital
+    Goomalling Hospital-Wheatbelt, public hospital
+    Graylands Selby-Lemnos and Special Care Health Service-Graylands Hospital, Perth, public hospital
+    Halls Creek Hospital-Northern WA, public hospital
+    Harvey Hospital-South West WA, public hospital
+    Hedland Health Campus-Port Hedland Hospital, Northern WA, public hospital
+    Joondalup Health Campus (Public)-Public
+    Kalamunda Hospital-Perth, public hospital
+    Kalbarri Health Centre-Midwest, public hospital
+    Kaleeya Hospital-FHHS, Perth, public hospital
+    Kalgoorlie Hospital-Goldfields, public hospital
+    Katanning Hospital-Great Southern WA, public hospital
+    Kellerberrin Memorial Hospital-Wheatbelt, public hospital
+    King Edward Memorial Hospital for Women-KEMH, Perth, public hospital
+    Kojonup Hospital-Great Southern WA, public hospital
+    Kondinin Districts Health Service-Kondinin Hospital, Wheatbelt, public hospital
+    Kununoppin Health Service-Kununoppin Hospital, Wheatbelt, public hospital
+    Kununurra Hospital-Northern WA, public hospital
+    Lake Grace Hospital-Wheatbelt, public hospital
+    Laverton Hospital-Goldfields, public hospital
+    Leonora Hospital-Goldfields, public hospital
+    Lorne Community Hospital-SWARH, South-Western Vic, public hospital
+    Margaret River Hospital-South West WA, public hospital
+    Meekatharra Hospital-Midwest, public hospital
+    Merredin Health Service-Merredin Hospital, Wheatbelt, public hospital
+    Moora Hospital-Wheatbelt, public hospital
+    Morawa Health Service-Midwest, public hospital
+    Mullewa Health Service-Midwest, public hospital
+    Murray District Hospital-South West WA, public hospital
+    Nannup Hospital-South West WA, public hospital
+    Narembeen Memorial Hospital-Wheatbelt, public hospital
+    Narrogin Hospital-Wheatbelt, public hospital
+    Newman Hospital-Northern WA, public hospital
+    Next Step Drug And Alcohol Services-Perth, public hospital
+    Nickol Bay Hospital-Northern WA, public hospital
+    Norseman Hospital-Goldfields, public hospital
+    North Midlands Health Service-Midwest, public hospital
+    Northam Hospital-Wheatbelt, public hospital
+    Northampton Kalbarri Health Service-Midwest, public hospital
+    Onslow Hospital-Northern WA, public hospital
+    Osborne Park Hospital-OPH, Perth, public hospital
+    Otway Health & Community Services [Apollo Bay]-SWARH, South-Western Vic, public hospital
+    Paraburdoo Hospital-Northern WA, public hospital
+    Peel Health Campus-South West WA, public hospital
+    Pemberton Hospital-South West WA, public hospital
+    Pingelly Hospital-Wheatbelt, public hospital
+    Plantagenet Hospital-Great Southern WA, public hospital
+    Portland District Health-SWARH, South-Western Vic, public hospital
+    Princess Margaret Hospital for Children-PMH, Perth, public hospital
+    Quairading Hospital-Wheatbelt, public hospital
+    Ravensthorpe Health Centre-Ravensthorpe Hospital, Goldfields, public hospital
+    Rockingham General Hospital-Perth, public hospital
+    Roebourne Hospital-Northern WA, public hospital
+    Royal Perth Hospital Shenton Park Campus-RPH, Perth, public hospital
+    Royal Perth Hospital Wellington Street Campus-RPH, Perth, public hospital
+    Selby Authorised Lodge-Perth, public hospital
+    Sir Charles Gairdner Hospital-SCGH, Perth, public hospital
+    South West Health Campus-Bunbury Hospital, South West WA, public hospital
+    South West Healthcare [Camperdown]-SWARH, South-Western Vic, public hospital
+    Southern Cross Hospital-Wheatbelt, public hospital
+    St John of God Midland Public Hospital-Perth, public hospital
+    State Forensic Mental Health Service-Perth, public hospital
+    Swan District Hospital-Perth, public hospital
+    Terang & Mortlake Health Service [Terang]-SWARH, South-Western Vic, public hospital
+    Tom Price Hospital-Northern WA, public hospital
+    Wagin Hospital-Wheatbelt, public hospital
+    Warren Hospital-South West WA, public hospital
+    Wongan Hills Hospital-Wheatbelt, public hospital
+    Wyalkatchem-Koorda and Districts Hospital-Wheatbelt, public hospital
+    Wyndham Hospital-Northern WA, public hospital
+    York Hospital-Wheatbelt, public hospital

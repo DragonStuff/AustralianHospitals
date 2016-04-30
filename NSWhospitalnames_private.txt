@@ -1,0 +1,97 @@
+    Aesthetic Day Surgery
+    Albury Wodonga Private Hospital
+    Allowah Presbyterian Childrens Hospital
+    Armidale Private Hospital
+    Ballina Day Surgery
+    Baringa Private Hospital
+    Bathurst Private Hospital
+    Bega Valley Private Hospital
+    Berkeley Vale Private Hospital
+    Brisbane Waters Private Hospital
+    Calvary Health Care Riverina
+    Campbelltown Private Hospital
+    Castle Hill Day Surgery
+    Castlecrag Private Hospital
+    Central Coast Day Hospital
+    Centre for Digestive Diseases
+    Coffs Harbour Day Surgery
+    Coolenberg Day Surgery
+    Crows Nest Day Surgery
+    Dalcross Adventist Hospital
+    Dee Why Endoscopy Unit
+    Diagnostic Endoscopy Centre
+    Dudley-Orange Private Hospital
+    Eastern Heart Clinic
+    Epping Surgery Centre
+    Figtree Private Hospital
+    Forster Private Hospital
+    Hastings Day Surgery
+    Hunter Valley Private Hospital
+    Hunters Hill Private Hospital
+    Hurstville Private
+    Kareena Private Hospital
+    Kingsway Day Surgery
+    Lady Davidson Private Hospital
+    Lake Macquarie Private Hospital
+    Lawrence Hargrave Private Hospital
+    Liverpool Day Surgery
+    Macquarie University Hospital
+    Mater Hospital Sydney
+    MetroRehab Hospital
+    Metwest Surgical
+    Miranda Eye Surgical Centre
+    Mogo Day Surgery
+    Mosman Private Hospital
+    Mount Wilga Private Hospital
+    Nepean Private Hospital
+    Newcastle Private Hospital
+    North Shore Private Hospital
+    Northside Clinic
+    Northside Cremorne Clinic
+    Northside Macarthur Clinic
+    Northside West Clinic
+    Norwest Private Hospital
+    Nowra Private Hospital
+    Ophthalmic Surgery Centre (North Shore)
+    Orange Day Surgery Centre
+    Pennant Hills Day Endoscopy Centre
+    Perfect Vision Day Surgery
+    Port Macquarie Private Hospital
+    Prince of Wales Private Hospital
+    Radiation Oncology Institute - Gosford
+    Radiation Oncology Institute - The Sydney Adventist Hospital Wahroonga
+    San Day Surgery Hornsby
+    South Pacific Private
+    Southern Highlands Private Hospital
+    St George Private Hospital
+    St John of God Burwood Hospital
+    St John of God Richmond Hospital
+    St Lukes Hospital
+    St Vincents Private Hospital [Lismore]
+    St Vincents Private Sydney
+    Strathfield Private Hospital
+    Sutherland Heart Clinic
+    Sydney Adventist Hospital
+    Sydney Day Surgery - Prince Alfred
+    Sydney E.N.T. & Facial Day Surgery Centre
+    Sydney South West Private Hospital
+    Tamara Private Hospital
+    The Hills Clinic Kellyville
+    The Hills Private Hospital
+    The Skin & Cancer Foundation Australia
+    The Sydney Clinic
+    The Sydney Private Hospital Incorporating the NSW Eye Centre
+    Tweed Day Surgery
+    Ulladulla Endoscopy and Medical Centre
+    Vision Day Surgery Chatswood
+    Vision Day Surgery Hurstville
+    Wagga Endoscopy Centre
+    Waratah Private Hospital
+    Warners Bay Private Hospital
+    Wesley Hospital Ashfield
+    Wesley Hospital Kogarah
+    Western Sydney Oncology
+    Westmead Private Hospital
+    Westmead Rehabilitation Hospital
+    Wollongong Day Surgery
+    Wolper Jewish Hospital

@@ -1,0 +1,85 @@
+    Albert Road Clinic-Melbourne, private hospital
+    Avenue Plastic Surgery-Avenue Day Surgery, Melbourne, private hospital
+    Ballarat Day Procedure Centre-Central Vic, private hospital
+    Beleura Private Hospital-Melbourne, private hospital
+    Bellbird Private Hospital-Melbourne, private hospital
+    Berwick Eye and Surgicentre-Berwick Eye Centre, Melbourne, private hospital
+    Cabrini Brighton-Melbourne, private hospital
+    Cabrini Health Elsternwick Rehabilitation - Glenhuntly Rd-Melbourne, private hospital
+    Cabrini Health Elsternwick Rehabilitation - Hopetoun-Melbourne, private hospital
+    Cabrini Malvern-Melbourne, private hospital
+    Cabrini Prahran-Melbourne, private hospital
+    Chesterville Day Hospital-Melbourne, private hospital
+    Como Private Hospital-Melbourne, private hospital
+    Corymbia House-Melbourne, private hospital
+    Cotham Private Hospital-Melbourne, private hospital
+    Donvale Rehabilitation Hospital-Melbourne, private hospital
+    Dorset Rehabilitation Centre-Melbourne, private hospital
+    Epworth Cliveden-Melbourne, private hospital
+    Epworth Eastern-Melbourne, private hospital
+    Epworth Freemasons [Clarendon Street]-Freemasons, Melbourne, private hospital
+    Epworth Freemasons [Victoria Parade]-Freemasons, Melbourne, private hospital
+    Epworth Hawthorn-Epworth Rehabilitation Hawthorn, Melbourne, private hospital
+    Epworth Rehabilitation Brighton-Melbourne, private hospital
+    Epworth Rehabilitation Camberwell-Melbourne, private hospital
+    Epworth Rehabilitation Richmond-Melbourne, private hospital
+    Epworth Richmond-Epworth Hospital, Melbourne, private hospital
+    Essendon Private Hospital-Melbourne, private hospital
+    Frances Perry House-Melbourne, private hospital
+    Frankston Private Day Surgery-Melbourne, private hospital
+    Geelong Private Hospital-South-Western Vic, private hospital
+    Glen Eira Day Surgery-Melbourne, private hospital
+    Glenferrie Private Hospital-Melbourne, private hospital
+    Healthscope Independence Services-Melbourne, private hospital
+    Heidelberg Endoscopy & Day Surgery Centre-Melbourne, private hospital
+    Hobsons Bay Endoscopy Centre Altona-Melbourne, private hospital
+    Hobsons Bay Endoscopy Centre Sydenham-Melbourne, private hospital
+    Hobsons Bay Endoscopy Centre Werribee-Melbourne, private hospital
+    John Fawkner Private Hospital-Melbourne, private hospital
+    Jolimont Endoscopy-Melbourne, private hospital
+    Knox Private Hospital-Melbourne, private hospital
+    Linacre Private Hospital-Melbourne, private hospital
+    Manningham Day Procedure Centre-MDPC, Melbourne, private hospital
+    Maryvale Private Hospital-Eastern Vic, private hospital
+    Masada Private Hospital-Melbourne, private hospital
+    Melbourne MediBrain & MediSleep Centre-MediBrain, Medi Sleep, Melbourne Medi Brain Centre, Melbourne, private hospital
+    Melbourne Oral & Facial Surgery-Melbourne, private hospital
+    Melbourne Private Hospital-Melbourne, private hospital
+    Mildura Private Hospital-Mallee, private hospital
+    Mitcham Private Hospital-Melbourne, private hospital
+    Murray Valley Private Hospital-Eastern Vic, private hospital
+    North Eastern Rehabilitation Centre-Melbourne, private hospital
+    Northpark Private Hospital-Melbourne, private hospital
+    Peninsula Oncology Centre-Melbourne, private hospital
+    Peninsula Private Hospital Victoria-Melbourne, private hospital
+    Ringwood Private Hospital-Melbourne, private hospital
+    Rosebud SurgiCentre-Melbourne, private hospital
+    Shepparton Private Hospital-Goulburn Valley, private hospital
+    South Eastern Private-Melbourne, private hospital
+    St John of God Ballarat Hospital-Central Vic, private hospital
+    St John of God Bendigo Hospital-Central Vic, private hospital
+    St John of God Berwick Hospital-Melbourne, private hospital
+    St John of God Frankston Rehabilitation Hospital-St John of God Nepean Rehabilitation Hospital, Melbourne, private hospital
+    St John of God Geelong Hospital-South-Western Vic, private hospital
+    St John of God Pinelodge Clinic-Melbourne, private hospital
+    St John of God Warrnambool Hospital-South-Western Vic, private hospital
+    St Vincents Private Hospital East Melbourne-Mercy Private, Melbourne, private hospital
+    St Vincents Private Hospital Fitzroy-STVPH, Melbourne, private hospital
+    St Vincents Private Hospital Kew-Vimy Private, Melbourne, private hospital
+    The Avenue Hospital-Melbourne, private hospital
+    The Bays Hospital-Melbourne, private hospital
+    The Geelong Clinic-South-Western Vic, private hospital
+    The Melbourne Clinic-Melbourne, private hospital
+    The Valley Private Hospital-Melbourne, private hospital
+    The Victoria Clinic-Melbourne, private hospital
+    The Victorian Rehabilitation Centre-Melbourne, private hospital
+    Victoria Parade Surgery Centre-VPSC, Melbourne, private hospital
+    Vision Day Surgery Camberwell-Vision Eye Institute, Melbourne, private hospital
+    Vision Day Surgery Eastern-Vision Eye Institute, Melbourne, private hospital
+    Vision Day Surgery Footscray-Vision Eye Institute, Melbourne, private hospital
+    Vision Eye Institute-Melbourne, private hospital
+    Wangaratta Private Hospital-Eastern Vic, private hospital
+    Warringal Private Hospital-Melbourne, private hospital
+    Waverley Private Hospital-Mt Waverley Private Hospital, Melbourne, private hospital
+    Western Gastroenterology Services-Melbourne, private hospital
+    Western Private Hospital-Melbourne, private hospital

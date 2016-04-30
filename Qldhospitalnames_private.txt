@@ -1,0 +1,74 @@
+    Allamanda Private Hospital
+    Brisbane Endoscopy Services
+    Brisbane Private Hospital
+    Buderim Gastroenterology Centre
+    Caboolture Private Hospital
+    Cairns Day Surgery
+    Cairns Private Hospital
+    Caloundra Private Clinic
+    Chermside Day Hospital
+    Eye-Tech Day Surgeries Southside
+    Eye-Tech Day Surgeries
+    Friendly Society Private Hospital
+    Greenslopes Day Surgery
+    Greenslopes Private Hospital
+    Gympie Private Hospital
+    Hervey Bay Surgical Hospital
+    Hillcrest Rockhampton Private Hospital
+    Holy Spirit Northside Private Hospital
+    Hopewell Hospice
+    Ipswich Day Hospital
+    John Flynn Private Hospital
+    Kawana Private Hospital
+    Mackay Specialist Day Hospital
+    Mater Childrens Private Hospital
+    Mater Hospital Pimlico
+    Mater Misericordiae Day Unit
+    Mater Misericordiae Hospital Bundaberg
+    Mater Misericordiae Hospital Gladstone
+    Mater Misericordiae Hospital Mackay
+    Mater Misericordiae Hospital Rockhampton
+    Mater Misericordiae Hospital Yeppoon
+    Mater Mothers Private Hospital
+    Mater Private Hospital Brisbane
+    Mater Private Hospital Redland
+    Mater Womens and Childrens Hospital Hyde Park
+    Montserrat Day Hospital Gaythorne
+    Montserrat Day Hospital Indooroopilly
+    Nambour Day Surgery
+    Nambour Selangor Private Hospital
+    New Farm Clinic
+    Noosa Hospital
+    North Lakes Day Hospital
+    North Mackay Private Hospital
+    North Queensland Day Surgical Centre
+    North West Private Hospital
+    Pacific Private Day Hospital
+    Peninsula Private Hospital Queensland
+    Pindara Day Procedure Centre
+    Pindara Private Hospital
+    Pine Rivers Private Hospital
+    Queensland Eye Hospital
+    Rivercity Private Hospital
+    Robina Procedure Centre
+    Short Street Day Surgery
+    South Burnett Private Hospital
+    Southport Day Hospital
+    Southside Endoscopy Centre
+    Spendelove Private Hospital
+    St Andrews Ipswich Private Hospital
+    St Andrews Toowoomba Hospital
+    St Andrews War Memorial Hospital
+    St Stephens Hospital Hervey Bay
+    St Vincents Private Hospital Brisbane
+    St Vincents Private Hospital Toowoomba
+    Sunnybank Private Hospital
+    Sunshine Coast Haematology and Oncology Clinic
+    Sunshine Coast University Private Hospital
+    The Cairns Clinic
+    The Sunshine Coast Private Hospital
+    The Wesley Hospital
+    Toowong Private Hospital
+    Toowoomba Surgicentre
+    Townsville Day Surgery
+    Vision Day Surgery Rivercity

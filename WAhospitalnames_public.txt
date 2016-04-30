@@ -1,0 +1,99 @@
+    Albany Hospital
+    Armadale-Kelmscott Memorial Hospital
+    Augusta Hospital
+    Bentley Hospital
+    Beverley Hospital
+    Boddington Hospital
+    Boyup Brook Soldiers Memorial Hospital
+    Bridgetown Hospital
+    Broome Hospital
+    Bruce Rock Memorial Hospital
+    Busselton Health Campus
+    Carnarvon Hospital
+    Casterton Memorial Hospital
+    Collie Hospital
+    Corrigin Hospital
+    Cunderdin Hospital
+    Dalwallinu Hospital
+    Denmark Hospital and Health Service
+    Derby Hospital
+    Dongara Eneabba Mingenew Health Service
+    Donnybrook Hospital
+    Dumbleyung Memorial Hospital
+    Esperance Hospital
+    Exmouth Hospital
+    Fiona Stanley Hospital
+    Fitzroy Crossing Hospital
+    Fremantle Hospital
+    Geraldton Hospital
+    Gnowangerup Hospital
+    Goomalling Hospital
+    Graylands Selby-Lemnos and Special Care Health Service
+    Halls Creek Hospital
+    Harvey Hospital
+    Hedland Health Campus
+    Joondalup Health Campus (Public)
+    Kalamunda Hospital
+    Kalbarri Health Centre
+    Kaleeya Hospital
+    Kalgoorlie Hospital
+    Katanning Hospital
+    Kellerberrin Memorial Hospital
+    King Edward Memorial Hospital for Women
+    Kojonup Hospital
+    Kondinin Districts Health Service
+    Kununoppin Health Service
+    Kununurra Hospital
+    Lake Grace Hospital
+    Laverton Hospital
+    Leonora Hospital
+    Lorne Community Hospital
+    Margaret River Hospital
+    Meekatharra Hospital
+    Merredin Health Service
+    Moora Hospital
+    Morawa Health Service
+    Mullewa Health Service
+    Murray District Hospital
+    Nannup Hospital
+    Narembeen Memorial Hospital
+    Narrogin Hospital
+    Newman Hospital
+    Next Step Drug And Alcohol Services
+    Nickol Bay Hospital
+    Norseman Hospital
+    North Midlands Health Service
+    Northam Hospital
+    Northampton Kalbarri Health Service
+    Onslow Hospital
+    Osborne Park Hospital
+    Otway Health & Community Services [Apollo Bay]
+    Paraburdoo Hospital
+    Peel Health Campus
+    Pemberton Hospital
+    Pingelly Hospital
+    Plantagenet Hospital
+    Portland District Health
+    Princess Margaret Hospital for Children
+    Quairading Hospital
+    Ravensthorpe Health Centre
+    Rockingham General Hospital
+    Roebourne Hospital
+    Royal Perth Hospital Shenton Park Campus
+    Royal Perth Hospital Wellington Street Campus
+    Selby Authorised Lodge
+    Sir Charles Gairdner Hospital
+    South West Health Campus
+    South West Healthcare [Camperdown]
+    Southern Cross Hospital
+    St John of God Midland Public Hospital
+    State Forensic Mental Health Service
+    Swan District Hospital
+    Terang & Mortlake Health Service [Terang]
+    Tom Price Hospital
+    Wagin Hospital
+    Warren Hospital
+    Wongan Hills Hospital
+    Wyalkatchem-Koorda and Districts Hospital
+    Wyndham Hospital
+    York Hospital

@@ -1,0 +1,156 @@
+    Albury Wodonga Health [Wodonga Campus]-Eastern Vic, public hospital
+    Alexandra District Health-Goulburn Valley, public hospital
+    Alpine Health [Bright]-Eastern Vic, public hospital
+    Alpine Health [Mount Beauty]-Eastern Vic, public hospital
+    Alpine Health [Myrtleford]-Eastern Vic, public hospital
+    Angliss Hospital-Melbourne, public hospital
+    Austin Hospital [Heidelberg]-Melbourne, public hospital
+    Bairnsdale Regional Health Service-Eastern Vic, public hospital
+    Ballarat Health Services [Base Campus]-BHS, Central Vic, public hospital
+    Ballarat Health Services [Queen Elizabeth Campus]-BHS, Central Vic, public hospital
+    Bass Coast Regional Health-BCRH, Eastern Vic, public hospital
+    Beaufort & Skipton Health Service [Beaufort]-Central Vic, public hospital
+    Beaufort & Skipton Health Service [Skipton]-South-Western Vic, public hospital
+    Beechworth Health Service-Eastern Vic, public hospital
+    Benalla & District Memorial Hospital-Goulburn Valley, public hospital
+    Bendigo Health Care Group [Anne Caudle]-Central Vic, public hospital
+    Boort District Health-Central Vic, public hospital
+    Box Hill Hospital-Melbourne, public hospital
+    Broadmeadows Health Service-Melbourne, public hospital
+    Bundoora Extended Care Centre-Melbourne, public hospital
+    Calvary Health Care Bethlehem-Melbourne, public hospital
+    Careplans Assessment Victoria-Melbourne, public hospital
+    Caritas Christi Hospice [Kew]-SVHM, St Vincent's Hospital, Melbourne, public hospital
+    Casey Hospital-Melbourne, public hospital
+    Casterton Memorial Hospital-SWARH, South-Western Vic, public hospital
+    Castlemaine Health-Mount Alexander Hospital, Central Vic, public hospital
+    Caulfield Hospital-Melbourne, public hospital
+    Central Gippsland Health Service [Maffra]-GHA, Eastern Vic, public hospital
+    Central Gippsland Health Service [Sale]-GHA, Eastern Vic, public hospital
+    Cobram District Hospital-Goulburn Valley, public hospital
+    Cohuna District Hospital-Mallee, public hospital
+    Colac Area Health-South-Western Vic, public hospital
+    Craigieburn Health Service-Melbourne, public hospital
+    Cranbourne Integrated Care Centre-Melbourne, public hospital
+    Creswick District Hospital-Central Vic, public hospital
+    Dame Phyllis Frost Centre - Marmak unit-Melbourne, public hospital
+    Dandenong Campus-Melbourne, public hospital
+    Daylesford District Hospital-Central Vic, public hospital
+    Dental Health Services Victoria-DHSV, Melbourne, public hospital
+    Dimboola District Hospital-Wimmera, public hospital
+    Djerriwarrh Health Service [Bacchus Marsh]-Central Vic, public hospital
+    Dunmunkle Health Services-Wimmera, public hospital
+    East Grampians Health Service [Ararat]-EGHS, Central Vic, public hospital
+    East Grampians Health Service [Willaura]-EGHS, Central Vic, public hospital
+    East Wimmera Health Service [Birchip]-ERH, Mallee, public hospital
+    East Wimmera Health Service [Charlton]-ERH, Mallee, public hospital
+    East Wimmera Health Service [Donald]-ERH, Mallee, public hospital
+    East Wimmera Health Service [St Arnaud]-EWHS, Wimmera, public hospital
+    East Wimmera Health Service [Wycheproof]-EWHS, Mallee, public hospital
+    Echuca Regional Health-ERH, Goulburn Valley, public hospital
+    Edenhope and District Memorial Hospital-EDMH, Wimmera, public hospital
+    Frankston Hospital-Melbourne, public hospital
+    Geelong Hospital-South-Western Vic, public hospital
+    Gippsland Southern Health Service - Korumburra-Eastern Vic, public hospital
+    Gippsland Southern Health Service - Leongatha-Eastern Vic, public hospital
+    Golf Links Road Rehabilitation Centre-Melbourne, public hospital
+    Goulburn Valley Health [Shepparton]-Goulburn Valley, public hospital
+    Goulburn Valley Health [Tatura]-Goulburn Valley, public hospital
+    Goulburn Valley Health [Waranga]-Goulburn Valley, public hospital
+    Healesville and District Hospital-Melbourne, public hospital
+    Heathcote Health-McIvor Health & Community Services, Central Vic, public hospital
+    Heidelberg Repatriation Hospital [Heidelberg West]-Melbourne, public hospital
+    Hesse Rural Health Service [Winchelsea]-South-Western Vic, public hospital
+    Heywood Rural Health-South-Western Vic, public hospital
+    Inglewood & District Health Service-Central Vic, public hospital
+    Kerang District Health-Mallee, public hospital
+    Kingston Centre [Cheltenham]-Melbourne, public hospital
+    Kooweerup Regional Health Service-Melbourne, public hospital
+    Kyabram & District Health Service-Goulburn Valley, public hospital
+    Kyneton District Health Service-Central Vic, public hospital
+    Latrobe Regional Hospital [Traralgon]-LRH, Eastern Vic, public hospital
+    Lorne Community Hospital-SWARH, South-Western Vic, public hospital
+    Maldon Hospital-Central Vic, public hospital
+    Mallee Track Health & Community Service [Ouyen]-Mallee, public hospital
+    Manangatang & District Hospital-Mallee, public hospital
+    Mansfield District Hospital-Goulburn Valley, public hospital
+    Maroondah Hospital [East Ringwood]-Melbourne, public hospital
+    Maryborough District Health Service [Dunolly]-Central Vic, public hospital
+    Maryborough District Health Service [Maryborough]-Central Vic, public hospital
+    Melton Health-Melbourne, public hospital
+    Mercy Health - OConnell Family Centre-Melbourne, public hospital
+    Mercy Hospital for Women-Melbourne, public hospital
+    Mildura Base Hospital-Mallee, public hospital
+    Monash Medical Centre [Clayton]-Melbourne, public hospital
+    Monash Medical Centre [Moorabbin]-Melbourne, public hospital
+    Mount Eliza Aged Care & Rehabilitation Service-Melbourne, public hospital
+    Moyne Health Services [Port Fairy]-South-Western Vic, public hospital
+    Nathalia District Hospital-Goulburn Valley, public hospital
+    Northeast Health Wangaratta-Eastern Vic, public hospital
+    Numurkah & District Health Service-Goulburn Valley, public hospital
+    Omeo District Health-GHA, Eastern Vic, public hospital
+    Orbost Regional Health-Eastern Vic, public hospital
+    Orygen Inpatient Unit-OYH, Melbourne, public hospital
+    Otway Health & Community Services [Apollo Bay]-SWARH, South-Western Vic, public hospital
+    Peter MacCallum Cancer Institute-Melbourne, public hospital
+    Portland District Health-SWARH, South-Western Vic, public hospital
+    Queen Elizabeth Centre [Noble Park]-QEC, Melbourne, public hospital
+    Robinvale District Health Services-Mallee, public hospital
+    Rochester & Elmore District Health Service-REDHS, Goulburn Valley, public hospital
+    Rosebud Hospital-Melbourne, public hospital
+    Rosebud Rehabilitation Unit-Melbourne, public hospital
+    Royal Childrens Hospital [Parkville]-RCH, Melbourne, public hospital
+    Royal Childrens Hospital [Travancore Psych]-RCH, Melbourne, public hospital
+    Royal Melbourne Hospital [Parkville]-MH, Melbourne, public hospital
+    Royal Melbourne Hospital- Royal Park Campus-MH, Melbourne, public hospital
+    Royal Talbot Rehabilitation Centre [Kew]-Melbourne, public hospital
+    Royal Womens Hospital [Parkville]-Royal Women's Hospital [Carlton], Melbourne, public hospital
+    Rural Northwest Health [Hopetoun]-RNH, Wimmera, public hospital
+    Rural Northwest Health [Warracknabeal]-RNH, Wimmera, public hospital
+    Sandringham Hospital-Melbourne, public hospital
+    Sea Lake & District Hospital-MTHCS - Sea Lake Service Centre, Mallee, public hospital
+    Seymour District Memorial Hospital-Goulburn Valley, public hospital
+    South Coast District Hospital-Greater Adelaide, public hospital
+    South Gippsland Hospital [Foster]-Eastern Vic, public hospital
+    South West Healthcare [Camperdown]-SWARH, South-Western Vic, public hospital
+    South West Healthcare [Warrnambool]-South-Western Vic, public hospital
+    St Georges Health Service- Aged Care-Melbourne, public hospital
+    St Vincents Hospital [Fitzroy]-Melbourne, public hospital
+    Stawell Regional Health-SRH, Wimmera, public hospital
+    Sunbury Day Hospital-Melbourne, public hospital
+    Sunshine Hospital-Melbourne, public hospital
+    Swan Hill District Health [Nyah]-Mallee, public hospital
+    Swan Hill District Health [Swan Hill]-Mallee, public hospital
+    Sydney Road Clinic-Melbourne, public hospital
+    Tallangatta Health Service-Eastern Vic, public hospital
+    Terang & Mortlake Health Service [Terang]-SWARH, South-Western Vic, public hospital
+    The Alfred-Melbourne, public hospital
+    The Bendigo Hospital-Central Vic, public hospital
+    The Kilmore & District Hospital-Goulburn Valley, public hospital
+    The McKellar Centre-Grace McKellar Centre, South-Western Vic, public hospital
+    The Mornington Centre-Melbourne, public hospital
+    The Northern Hospital [Epping]-NH, Melbourne, public hospital
+    The Peter James Centre [East Burwood]-Melbourne, public hospital
+    The Royal Victorian Eye & Ear Hospital-RVEEH, Melbourne, public hospital
+    Timboon & District Healthcare Service-South-Western Vic, public hospital
+    Tweddle Child & Family Health Centre [Footscray]-Melbourne, public hospital
+    Upper Murray Health & Community Services [Corryong]-UMHCS, Eastern Vic, public hospital
+    Victorian Institute of Forensic Mental Health Prison Health Service-VIFMH, Prison Health Service, MAP, Melbourne, public hospital
+    Victorian Institute of Forensic Mental Health-VIFMH, Melbourne, public hospital
+    Wantirna Health-Melbourne, public hospital
+    Werribee Mercy Hospital-Mercy Public Hospital [Werribee], Melbourne, public hospital
+    West Gippsland Healthcare Group [Warragul]-WGHG, Eastern Vic, public hospital
+    West Wimmera Health Service [Jeparit]-WWHS, Wimmera, public hospital
+    West Wimmera Health Service [Kaniva]-WWHS, Wimmera, public hospital
+    West Wimmera Health Service [Nhill]-WWHS, Wimmera, public hospital
+    West Wimmera Health Service [Rainbow]-WWHS, Wimmera, public hospital
+    Western District Health Service [Coleraine District Health Service]-WDHS, South-Western Vic, public hospital
+    Western District Health Service [Hamilton]-WDHS, South-Western Vic, public hospital
+    Western District Health Service [Penshurst]-WDHS, South-Western Vic, public hospital
+    Western Hospital [Footscray]-WH, Melbourne, public hospital
+    Williamstown Hospital-Melbourne, public hospital
+    Wimmera Base Hospital [Horsham]-Wimmera, public hospital
+    Yarra Ranges Health-IECHS, Melbourne, public hospital
+    Yarram & District Health Service-YDHS, Eastern Vic, public hospital
+    Yarrawonga District Health Service-YDHS, Goulburn Valley, public hospital
+    Yea & District Memorial Hospital-Goulburn Valley, public hospital

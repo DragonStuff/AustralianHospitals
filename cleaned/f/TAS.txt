@@ -1,0 +1,30 @@
+    Calvary Health Care Tasmania - Lenah Valley Campus-Calvary Lenah Valley, Tasmania, private hospital
+    Calvary Health Care Tasmania - St Johns Campus-Calvary St John's, Tasmania, private hospital
+    Calvary Health Care Tasmania - St Lukes Campus-Calvary St Luke's, Tasmania, private hospital
+    Calvary Health Care Tasmania - St Vincents Campus-Calvary St Vincent's, Tasmania, private hospital
+    Hobart Private Hospital-Tasmania, private hospital
+    St Helens Private Hospital-Tasmania, private hospital
+    The Eye Hospital-Tasmania, private hospital
+    The Hobart Clinic-Tasmania, private hospital
+    Beaconsfield District Health Service-Beaconsfield Multi Purpose Service, Tasmania, public hospital
+    Campbell Town Multi Purpose Service-CTHCS, Tasmania, public hospital
+    Deloraine District Hospital-Tasmania, public hospital
+    Esperance Multi Purpose Centre-Tasmania, public hospital
+    Flinders Island Multi Purpose Centre-Tasmania, public hospital
+    George Town Hospital and Community Health Centre-Tasmania, public hospital
+    HealthWest (West Coast District Hospital at Queenstown)-West Coast District Hospital at Queenstown
+    Huon Eldercare-Huon Eldercare, Tasmania, public hospital
+    King Island Multi Purpose Centre-Tasmania, public hospital
+    Launceston General Hospital-Tasmania, public hospital
+    May Shaw District Nursing Centre-Tasmania, public hospital
+    Mersey Community Hospital-Devonport, Tasmania, public hospital
+    Midlands Multi Purpose Centre-Tasmania, public hospital
+    New Norfolk District Hospital-Tasmania, public hospital
+    North East Soldiers Memorial Hospital and Community Service Centre (Scottsdale Hospital)-Scottsdale Hospital
+    North West Regional Hospital-NWRH, Burnie Hospital, Tasmania, public hospital
+    Royal Hobart Hospital-RHH, Tasmania, public hospital
+    Smithton District Hospital-Tasmania, public hospital
+    St Helens District Hospital-Tasmania, public hospital
+    St Marys Community Health Centre-St Marys CHC, Tasmania, public hospital
+    Tasman Health and Community Service-Tasman Multi Purpose Service, Tasmania, public hospital
+    Toosey Memorial Hospital (Longford)-Longford

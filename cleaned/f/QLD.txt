@@ -1,0 +1,261 @@
+    Allamanda Private Hospital-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Brisbane Endoscopy Services-GastroIntestinal Endoscopy P/L, Brisbane, private hospital
+    Brisbane Private Hospital-Brisbane, private hospital
+    Buderim Gastroenterology Centre-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Caboolture Private Hospital-Brisbane, private hospital
+    Cairns Day Surgery-Far North Qld, private hospital
+    Cairns Private Hospital-Far North Qld, private hospital
+    Caloundra Private Clinic-Sunshine Coast, Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Chermside Day Hospital-CDH, Brisbane, private hospital
+    Eye-Tech Day Surgeries Southside-Eye-Tech Southside, Brisbane, private hospital
+    Eye-Tech Day Surgeries-Eye-Tech Spring Hill, Brisbane, private hospital
+    Friendly Society Private Hospital-Wide Bay-Burnett, private hospital
+    Greenslopes Day Surgery-GSDS, Brisbane, private hospital
+    Greenslopes Private Hospital-Brisbane, private hospital
+    Gympie Private Hospital-Wide Bay-Burnett, private hospital
+    Hervey Bay Surgical Hospital-Wide Bay-Burnett, private hospital
+    Hillcrest Rockhampton Private Hospital-Fitzroy, private hospital
+    Holy Spirit Northside Private Hospital-Holy Spirit Northside, Brisbane, private hospital
+    Hopewell Hospice-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Ipswich Day Hospital-Brisbane, private hospital
+    John Flynn Private Hospital-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Kawana Private Hospital-Sunshine Coast, Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Mackay Specialist Day Hospital-Mackay and Northern Qld, private hospital
+    Mater Childrens Private Hospital-Brisbane, private hospital
+    Mater Hospital Pimlico-Mackay and Northern Qld, private hospital
+    Mater Misericordiae Day Unit-Mater Day Unit, Mackay and Northern Qld, private hospital
+    Mater Misericordiae Hospital Bundaberg-Wide Bay-Burnett, private hospital
+    Mater Misericordiae Hospital Gladstone-Fitzroy, private hospital
+    Mater Misericordiae Hospital Mackay-Mackay and Northern Qld, private hospital
+    Mater Misericordiae Hospital Rockhampton-Fitzroy, private hospital
+    Mater Misericordiae Hospital Yeppoon-Fitzroy, private hospital
+    Mater Mothers Private Hospital-Brisbane, private hospital
+    Mater Private Hospital Brisbane-Brisbane, private hospital
+    Mater Private Hospital Redland-Brisbane, private hospital
+    Mater Womens and Childrens Hospital Hyde Park-Mackay and Northern Qld, private hospital
+    Montserrat Day Hospital Gaythorne-Brisbane, private hospital
+    Montserrat Day Hospital Indooroopilly-Brisbane, private hospital
+    Nambour Day Surgery-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Nambour Selangor Private Hospital-Sunshine Coast, Gold Coast, Sunshine Coast and West Moreton, private hospital
+    New Farm Clinic-Brisbane, private hospital
+    Noosa Hospital-Sunshine Coast, Gold Coast, Sunshine Coast and West Moreton, private hospital
+    North Lakes Day Hospital-Brisbane, private hospital
+    North Mackay Private Hospital-Mackay and Northern Qld, private hospital
+    North Queensland Day Surgical Centre-Vision Eye Institute, Mackay and Northern Qld, private hospital
+    North West Private Hospital-North West Brisbane Private Hospital, Brisbane, private hospital
+    Pacific Private Day Hospital-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Peninsula Private Hospital Queensland-Brisbane, private hospital
+    Pindara Day Procedure Centre-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Pindara Private Hospital-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Pine Rivers Private Hospital-Brisbane, private hospital
+    Queensland Eye Hospital-Brisbane, private hospital
+    Rivercity Private Hospital-Brisbane, private hospital
+    Robina Procedure Centre-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Short Street Day Surgery-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    South Burnett Private Hospital-Wide Bay-Burnett, private hospital
+    Southport Day Hospital-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Southside Endoscopy Centre-Brisbane, private hospital
+    Spendelove Private Hospital-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    St Andrews Ipswich Private Hospital-Brisbane, private hospital
+    St Andrews Toowoomba Hospital-Darling Downs, private hospital
+    St Andrews War Memorial Hospital-Brisbane, private hospital
+    St Stephens Hospital Hervey Bay-Wide Bay-Burnett, private hospital
+    St Vincents Private Hospital Brisbane-St Vincent's Hospital Brisbane, Brisbane, private hospital
+    St Vincents Private Hospital Toowoomba-St Vincent's Hospital Toowoomba, Darling Downs, private hospital
+    Sunnybank Private Hospital-Brisbane, private hospital
+    Sunshine Coast Haematology and Oncology Clinic-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Sunshine Coast University Private Hospital-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    The Cairns Clinic-Far North Qld, private hospital
+    The Sunshine Coast Private Hospital-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    The Wesley Hospital-Brisbane, private hospital
+    Toowong Private Hospital-Brisbane, private hospital
+    Toowoomba Surgicentre-Darling Downs, private hospital
+    Townsville Day Surgery-Mackay and Northern Qld, private hospital
+    Vision Day Surgery Rivercity-Vision Eye Institute, Brisbane, private hospital
+    Alpha Hospital-Part of the Alpha Multi Purpose Health Service, Fitzroy, public hospital
+    Aramac Primary Healthcare Centre-Aramac Hospital, Central West Qld, public hospital
+    Atherton Hospital-Far North Qld, public hospital
+    Augathella Hospital-South West Qld, public hospital
+    Aurukun Primary Health Care Centre-Far North Qld, public hospital
+    Ayr Hospital-Mackay and Northern Qld, public hospital
+    Babinda Hospital-Far North Qld, public hospital
+    Badu Island Health Centre-Far North Qld, public hospital
+    Baillie Henderson Hospital-Darling Downs, public hospital
+    Bamaga Hospital-Far North Qld, public hospital
+    Baralaba Hospital-Part of the Baralaba Multi Purpose Health Service, Fitzroy, public hospital
+    Barcaldine Hospital-Part of the Barcaldine Multi Purpose Health Service, Central West Qld, public hospital
+    Beaudesert Hospital-Gold Coast, Sunshine Coast and West Moreton, public hospital
+    Biggenden Hospital-Wide Bay-Burnett, public hospital
+    Biloela Hospital-Fitzroy, public hospital
+    Blackall Hospital-Central West Qld, public hospital
+    Blackwater Hospital-Part of the Blackwater Multi Purpose Health Service, Fitzroy, public hospital
+    Boigu Island Health Centre-Far North Qld, public hospital
+    Bollon Outpatients Clinic-Bollon Bush Nursing Service, South West Qld, public hospital
+    Boonah Hospital-Gold Coast, Sunshine Coast and West Moreton, public hospital
+    Boulia Primary Health Centre-Central West Qld, public hospital
+    Bowen Hospital-Mackay and Northern Qld, public hospital
+    Bundaberg Base Hospital-Wide Bay-Burnett, public hospital
+    Burketown Health Clinic-North West Qld, public hospital
+    Caboolture Hospital-Brisbane, public hospital
+    Cairns Hospital-Cairns Base Hospital, Far North Qld, public hospital
+    Caloundra Hospital-Sunshine Coast, Gold Coast, Sunshine Coast and West Moreton, public hospital
+    Camooweal Health Clinic-North West Qld, public hospital
+    Capella Outpatients Clinic-Fitzroy, public hospital
+    Capricorn Coast Hospital-Fitzroy, public hospital
+    Charleville Hospital-South West Qld, public hospital
+    Charters Towers Hospital-Mackay and Northern Qld, public hospital
+    Charters Towers Rehabilitation Unit-Mackay and Northern Qld, public hospital
+    Cherbourg Hospital-Wide Bay-Burnett, public hospital
+    Childers Hospital-Wide Bay-Burnett, public hospital
+    Chillagoe Hospital-Far North Qld, public hospital
+    Chinchilla Hospital-Darling Downs, public hospital
+    Clermont Hospital-Mackay and Northern Qld, public hospital
+    Cloncurry Hospital-North West Qld, public hospital
+    Coconut Island Health Centre-Far North Qld, public hospital
+    Coen Primary Health Care Centre-Far North Qld, public hospital
+    Collinsville Hospital-Mackay and Northern Qld, public hospital
+    Cooktown Hospital-Part of the Cooktown Multi Purpose Health Service, Far North Qld, public hospital
+    Cracow Outpatients Clinic-Fitzroy, public hospital
+    Croydon Hospital-Far North Qld, public hospital
+    Cunnamulla Hospital-South West Qld, public hospital
+    Dajarra Health Centre-North West Qld, public hospital
+    Dalby Hospital-Darling Downs, public hospital
+    Darnley Island Primary Health Care Centre-Far North Qld, public hospital
+    Dauan Island Health Centre-Far North Qld, public hospital
+    Dimbulah Outpatients Clinic-Far North Qld, public hospital
+    Dirranbandi Hospital-South West Qld, public hospital
+    Doomadgee Hospital-North West Qld, public hospital
+    Duaringa Outpatients Clinic-Fitzroy, public hospital
+    Dysart Hospital-Mackay and Northern Qld, public hospital
+    Eidsvold Hospital-Wide Bay-Burnett, public hospital
+    Ellen Barron Family Centre-Brisbane, public hospital
+    Emerald Hospital-Fitzroy, public hospital
+    Esk Hospital-Gold Coast, Sunshine Coast and West Moreton, public hospital
+    Forsayth Hospital-Far North Qld, public hospital
+    Gatton Hospital-Gold Coast, Sunshine Coast and West Moreton, public hospital
+    Gayndah Hospital-Wide Bay-Burnett, public hospital
+    Gemfields Outpatients Clinic-Fitzroy, public hospital
+    Georgetown Hospital-Far North Qld, public hospital
+    Gin Gin Hospital-Wide Bay-Burnett, public hospital
+    Gladstone Hospital-Fitzroy, public hospital
+    Glenmorgan Outpatients Clinic-Darling Downs, public hospital
+    Gold Coast University Hospital-Gold Coast Hospital, Gold Coast, Sunshine Coast and West Moreton, public hospital
+    Goondiwindi Hospital-Darling Downs, public hospital
+    Gordonvale Hospital-Far North Qld, public hospital
+    Gurriny Yealamucka Primary Health Care Service-Yarrabah Hospital, Cairns, Far North Qld, public hospital
+    Gympie Hospital-Wide Bay-Burnett, public hospital
+    Herberton Hospital-Far North Qld, public hospital
+    Hervey Bay Hospital-Wide Bay-Burnett, public hospital
+    Home Hill Hospital-Mackay and Northern Qld, public hospital
+    Hope Vale Primary Health Care Centre-Far North Qld, public hospital
+    Hughenden Hospital-North West Qld, public hospital
+    Ingham Hospital-Mackay and Northern Qld, public hospital
+    Inglewood Hospital-Part of the Inglewood Multi Purpose Health Service, Darling Downs, public hospital
+    Injune Hospital-South West Qld, public hospital
+    Innisfail Hospital-Far North Qld, public hospital
+    Ipswich Hospital-Brisbane, public hospital
+    Isisford Primary Health Centre-Central West Qld, public hospital
+    Island Medical Service-Far North Qld, public hospital
+    Jandowae Hospital-Darling Downs, public hospital
+    Joyce Palmer Health Service-Mackay and Northern Qld, public hospital
+    Julia Creek Hospital-North West Qld, public hospital
+    Jundah Primary Health Centre-Central West Qld, public hospital
+    Karumba Health Centre-North West Qld, public hospital
+    Kilcoy Hospital-Gold Coast, Sunshine Coast and West Moreton, public hospital
+    Kingaroy Hospital-Wide Bay-Burnett, public hospital
+    Kirwan Rehabilitation Unit-Townsville, Mackay and Northern Qld, public hospital
+    Kowanyama Primary Health Care Centre-Far North Qld, public hospital
+    Kubin Primary Health Care Centre-Far North Qld, public hospital
+    Lady Cilento Childrens Hospital-Brisbane, public hospital
+    Laidley Hospital-Gold Coast, Sunshine Coast and West Moreton, public hospital
+    Laura Primary Health Care Centre-Far North Qld, public hospital
+    Lockhart River Primary Health Care Centre-Far North Qld, public hospital
+    Logan Hospital-Brisbane, public hospital
+    Longreach Hospital-Central West Qld, public hospital
+    Mabuiag Island Health Centre-Far North Qld, public hospital
+    Mackay Base Hospital-Mackay and Northern Qld, public hospital
+    Magnetic Island Health Service Centre-Townsville, Mackay and Northern Qld, public hospital
+    Malakoola Primary Health Care Centre-Napranum Primary Health Care Centre, Far North Qld, public hospital
+    Malanda Outpatients Clinic-Far North Qld, public hospital
+    Maleny Hospital-Maleny Hospital, Gold Coast, Sunshine Coast and West Moreton, public hospital
+    Mapoon Primary Health Care Centre-Far North Qld, public hospital
+    Mareeba Hospital-Far North Qld, public hospital
+    Marie Rose Centre-Dunwich Health Service Centre, Brisbane, public hospital
+    Maryborough Hospital-Wide Bay-Burnett, public hospital
+    Mater Adult Hospital-Brisbane, public hospital
+    Mater Childrens Hospital-Brisbane, public hospital
+    Mater Mothers Hospital-Brisbane, public hospital
+    Meandarra Outpatients Clinic-Darling Downs, public hospital
+    Miles Hospital-Darling Downs, public hospital
+    Millaa Millaa Outpatients Clinic-Far North Qld, public hospital
+    Millmerran Hospital-Darling Downs, public hospital
+    Mitchell Hospital-South West Qld, public hospital
+    Monto Hospital-Wide Bay-Burnett, public hospital
+    Moonie Outpatients Clinic-Darling Downs, public hospital
+    Moranbah Hospital-Mackay and Northern Qld, public hospital
+    Mornington Island Hospital-North West Qld, public hospital
+    Morven Outpatients Clinic-South West Qld, public hospital
+    Mossman Hospital-Part of the Douglas Shire Multi Purpose Health Centre, Far North Qld, public hospital
+    Mount Garnet Outpatients Clinic-Far North Qld, public hospital
+    Mount Isa Base Hospital-North West Qld, public hospital
+    Mount Morgan Hospital-Fitzroy, public hospital
+    Mount Perry Health Centre-Wide Bay-Burnett, public hospital
+    Moura Hospital-Fitzroy, public hospital
+    Mundubbera Hospital-Wide Bay-Burnett, public hospital
+    Mungindi Hospital-South West Qld, public hospital
+    Murgon Hospital-Wide Bay-Burnett, public hospital
+    Murray Island Primary Health Centre-Far North Qld, public hospital
+    Muttaburra Primary Health Centre-Central West Qld, public hospital
+    Nambour General Hospital-Sunshine Coast, Gold Coast, Sunshine Coast and West Moreton, public hospital
+    Nanango Hospital-Wide Bay-Burnett, public hospital
+    Normanton Hospital-North West Qld, public hospital
+    Oakey Hospital-Darling Downs, public hospital
+    Pormpuraaw Primary Health Care Centre-Far North Qld, public hospital
+    Princess Alexandra Hospital-PAH, Brisbane, public hospital
+    Proserpine Hospital-Mackay and Northern Qld, public hospital
+    Queen Elizabeth II Jubilee Hospital-Brisbane, public hospital
+    Quilpie Hospital-South West Qld, public hospital
+    Ravenshoe Outpatients Clinic-Far North Qld, public hospital
+    Redcliffe Hospital-Brisbane, public hospital
+    Redland Hospital-Brisbane, public hospital
+    Richmond Hospital-North West Qld, public hospital
+    Robina Hospital-Gold Coast, Sunshine Coast and West Moreton, public hospital
+    Rockhampton Hospital-Rockhampton Base Hospital, Fitzroy, public hospital
+    Roma Hospital-South West Qld, public hospital
+    Royal Brisbane & Womens Hospital-RBH, RBWH, Brisbane, public hospital
+    Royal Childrens Hospital-RCH, Brisbane, public hospital
+    Saibai Island Primary Health Centre-Far North Qld, public hospital
+    Sarina Hospital-Mackay and Northern Qld, public hospital
+    Springsure Hospital-Part of the Bauhinia Multi Purpose Health Service, Fitzroy, public hospital
+    St George Hospital Qld-South West Qld, public hospital
+    St Pauls Primary Health Care Centre-Far North Qld, public hospital
+    Stanthorpe Hospital-Darling Downs, public hospital
+    Stephen Island Primary Health Care Centre-Far North Qld, public hospital
+    Surat Hospital-South West Qld, public hospital
+    Tambo Primary Health Centre-Central West Qld, public hospital
+    Tara Hospital-Darling Downs, public hospital
+    Taroom Hospital-Darling Downs, public hospital
+    Texas Hospital-Darling Downs, public hospital
+    Thargomindah Hospital-South West Qld, public hospital
+    The Park Centre For Mental Health-Brisbane, public hospital
+    The Prince Charles Hospital-TPCH, Brisbane, public hospital
+    The Townsville Hospital-Mackay and Northern Qld, public hospital
+    Theodore Hospital-Part of the Theodore Multi Purpose Health Centre, Fitzroy, public hospital
+    Thursday Island Hospital-Far North Qld, public hospital
+    Thursday Island Primary Health Care Centre-Far North Qld, public hospital
+    Toowoomba Hospital-Darling Downs, public hospital
+    Tully Hospital-Far North Qld, public hospital
+    Wallumbilla Outpatients Clinic-South West Qld, public hospital
+    Wandoan Hospital-Darling Downs, public hospital
+    Warraber Island Primary Health Centre-Far North Qld, public hospital
+    Warwick Hospital-Darling Downs, public hospital
+    Weipa Hospital-Part of the Weipa Integrated Health Service, Far North Qld, public hospital
+    Windorah Clinic-Central West Qld, public hospital
+    Winton Hospital-Part of the Winton Multi Purpose Health Service, Central West Qld, public hospital
+    Wondai Hospital-Wide Bay-Burnett, public hospital
+    Woorabinda Hospital-Part of the Woorabinda Multi Purpose Health Service, Fitzroy, public hospital
+    Wujal Wujal Primary Health Care Centre-Wujal Wujal Community Hospital, Far North Qld, public hospital
+    Wynnum Health Service-Brisbane, public hospital
+    Yam Island Primary Health Centre-Far North Qld, public hospital
+    Yaraka Clinic-Central West Qld, public hospital
+    Yorke Island Primary Health Centre-Far North Qld, public hospital

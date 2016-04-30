@@ -1,0 +1,74 @@
+    Allamanda Private Hospital-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Brisbane Endoscopy Services-GastroIntestinal Endoscopy P/L, Brisbane, private hospital
+    Brisbane Private Hospital-Brisbane, private hospital
+    Buderim Gastroenterology Centre-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Caboolture Private Hospital-Brisbane, private hospital
+    Cairns Day Surgery-Far North Qld, private hospital
+    Cairns Private Hospital-Far North Qld, private hospital
+    Caloundra Private Clinic-Sunshine Coast, Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Chermside Day Hospital-CDH, Brisbane, private hospital
+    Eye-Tech Day Surgeries Southside-Eye-Tech Southside, Brisbane, private hospital
+    Eye-Tech Day Surgeries-Eye-Tech Spring Hill, Brisbane, private hospital
+    Friendly Society Private Hospital-Wide Bay-Burnett, private hospital
+    Greenslopes Day Surgery-GSDS, Brisbane, private hospital
+    Greenslopes Private Hospital-Brisbane, private hospital
+    Gympie Private Hospital-Wide Bay-Burnett, private hospital
+    Hervey Bay Surgical Hospital-Wide Bay-Burnett, private hospital
+    Hillcrest Rockhampton Private Hospital-Fitzroy, private hospital
+    Holy Spirit Northside Private Hospital-Holy Spirit Northside, Brisbane, private hospital
+    Hopewell Hospice-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Ipswich Day Hospital-Brisbane, private hospital
+    John Flynn Private Hospital-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Kawana Private Hospital-Sunshine Coast, Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Mackay Specialist Day Hospital-Mackay and Northern Qld, private hospital
+    Mater Childrens Private Hospital-Brisbane, private hospital
+    Mater Hospital Pimlico-Mackay and Northern Qld, private hospital
+    Mater Misericordiae Day Unit-Mater Day Unit, Mackay and Northern Qld, private hospital
+    Mater Misericordiae Hospital Bundaberg-Wide Bay-Burnett, private hospital
+    Mater Misericordiae Hospital Gladstone-Fitzroy, private hospital
+    Mater Misericordiae Hospital Mackay-Mackay and Northern Qld, private hospital
+    Mater Misericordiae Hospital Rockhampton-Fitzroy, private hospital
+    Mater Misericordiae Hospital Yeppoon-Fitzroy, private hospital
+    Mater Mothers Private Hospital-Brisbane, private hospital
+    Mater Private Hospital Brisbane-Brisbane, private hospital
+    Mater Private Hospital Redland-Brisbane, private hospital
+    Mater Womens and Childrens Hospital Hyde Park-Mackay and Northern Qld, private hospital
+    Montserrat Day Hospital Gaythorne-Brisbane, private hospital
+    Montserrat Day Hospital Indooroopilly-Brisbane, private hospital
+    Nambour Day Surgery-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Nambour Selangor Private Hospital-Sunshine Coast, Gold Coast, Sunshine Coast and West Moreton, private hospital
+    New Farm Clinic-Brisbane, private hospital
+    Noosa Hospital-Sunshine Coast, Gold Coast, Sunshine Coast and West Moreton, private hospital
+    North Lakes Day Hospital-Brisbane, private hospital
+    North Mackay Private Hospital-Mackay and Northern Qld, private hospital
+    North Queensland Day Surgical Centre-Vision Eye Institute, Mackay and Northern Qld, private hospital
+    North West Private Hospital-North West Brisbane Private Hospital, Brisbane, private hospital
+    Pacific Private Day Hospital-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Peninsula Private Hospital Queensland-Brisbane, private hospital
+    Pindara Day Procedure Centre-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Pindara Private Hospital-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Pine Rivers Private Hospital-Brisbane, private hospital
+    Queensland Eye Hospital-Brisbane, private hospital
+    Rivercity Private Hospital-Brisbane, private hospital
+    Robina Procedure Centre-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Short Street Day Surgery-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    South Burnett Private Hospital-Wide Bay-Burnett, private hospital
+    Southport Day Hospital-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Southside Endoscopy Centre-Brisbane, private hospital
+    Spendelove Private Hospital-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    St Andrews Ipswich Private Hospital-Brisbane, private hospital
+    St Andrews Toowoomba Hospital-Darling Downs, private hospital
+    St Andrews War Memorial Hospital-Brisbane, private hospital
+    St Stephens Hospital Hervey Bay-Wide Bay-Burnett, private hospital
+    St Vincents Private Hospital Brisbane-St Vincent's Hospital Brisbane, Brisbane, private hospital
+    St Vincents Private Hospital Toowoomba-St Vincent's Hospital Toowoomba, Darling Downs, private hospital
+    Sunnybank Private Hospital-Brisbane, private hospital
+    Sunshine Coast Haematology and Oncology Clinic-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    Sunshine Coast University Private Hospital-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    The Cairns Clinic-Far North Qld, private hospital
+    The Sunshine Coast Private Hospital-Gold Coast, Sunshine Coast and West Moreton, private hospital
+    The Wesley Hospital-Brisbane, private hospital
+    Toowong Private Hospital-Brisbane, private hospital
+    Toowoomba Surgicentre-Darling Downs, private hospital
+    Townsville Day Surgery-Mackay and Northern Qld, private hospital
+    Vision Day Surgery Rivercity-Vision Eye Institute, Brisbane, private hospital

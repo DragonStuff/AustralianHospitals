@@ -1,0 +1,25 @@
+    Adelaide Clinic-Greater Adelaide, private hospital
+    Adelaide Day Surgery Pty Ltd-Adelaide Day Surgery, Greater Adelaide, private hospital
+    Adelaide Eye & Laser Centre-Greater Adelaide, private hospital
+    Adelaide Surgicentre-Greater Adelaide, private hospital
+    Ashford Hospital-Adelaide Community Health Alliance, ACHA, Greater Adelaide, private hospital
+    Burnside War Memorial Hospital-Greater Adelaide, private hospital
+    Calvary Central Districts Hospital-Greater Adelaide, private hospital
+    Calvary North Adelaide Hospital-Greater Adelaide, private hospital
+    Calvary Rehabilitation Hospital-Formely Calvary College Grove, Greater Adelaide, private hospital
+    Calvary Wakefield Hospital-Greater Adelaide, private hospital
+    Flinders Private Hospital-Adelaide Community Health Alliance, ACHA, Greater Adelaide, private hospital
+    Fullarton Private Hospital-Adelaide, Greater Adelaide, private hospital
+    Glenelg Community Hospital Inc-Glenelg, Greater Adelaide, private hospital
+    Griffith Rehabilitation Hospital-Greater Adelaide, private hospital
+    Kahlyn Day Centre-Greater Adelaide, private hospital
+    McLaren Vale & Districts War Memorial Hospital Inc-Greater Adelaide, private hospital
+    Mount Gambier Private Hospital-Eastern SA, private hospital
+    Oxford Day Surgery Centre-Greater Adelaide, private hospital
+    Parkside Cosmetic Surgery-Greater Adelaide, private hospital
+    Parkwynd Private Hospital-Greater Adelaide, private hospital
+    SPORTSMED SA Hospital & Day Surgery-Greater Adelaide, private hospital
+    St Andrews Hospital-Greater Adelaide, private hospital
+    Stirling Hospital-Greater Adelaide, private hospital
+    The Memorial Hospital-Adelaide Community Health Alliance, ACHA, Greater Adelaide, private hospital
+    Western Hospital-Western Community Hospital, Greater Adelaide, private hospital
